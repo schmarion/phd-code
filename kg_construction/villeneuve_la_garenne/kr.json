@@ -1,0 +1,1961 @@
+{
+    "concepts": [
+      {
+        "concept_id": 140645724135456,
+        "label": "parents",
+        "lrs": [{ "label": "parents", "co_texts": ["parents"] }]
+      },
+      {
+        "concept_id": 140645797175328,
+        "label": "fonctionnement d\u00e9mocratique",
+        "lrs": [
+          {
+            "label": "fonctionnement d\u00e9mocratique",
+            "co_texts": ["fonctionnement d\u00e9mocratique"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797167264,
+        "label": "politique tarifaire",
+        "lrs": [
+          { "label": "politique tarifaire", "co_texts": ["politique tarifaire"] }
+        ]
+      },
+      {
+        "concept_id": 140645724135648,
+        "label": "\u00e9ducation sportive municipale",
+        "lrs": [{ "label": "\u00e9ducation sportive municipale", "co_texts": [] }]
+      },
+      {
+        "concept_id": 140645797175520,
+        "label": "niveau de revenu",
+        "lrs": [{ "label": "niveau de revenu", "co_texts": ["niveau de revenu"] }]
+      },
+      {
+        "concept_id": 140645797167456,
+        "label": "motricit\u00e9 fine",
+        "lrs": [
+          { "label": "motricit\u00e9 fine", "co_texts": ["motricit\u00e9 fine"] }
+        ]
+      },
+      {
+        "concept_id": 140645724135840,
+        "label": "sensibilisation",
+        "lrs": [{ "label": "sensibilisation", "co_texts": ["sensibilisation"] }]
+      },
+      {
+        "concept_id": 140645797175712,
+        "label": "carte invalidit\u00e9",
+        "lrs": [
+          {
+            "label": "carte invalidit\u00e9",
+            "co_texts": ["carte invalidit\u00e9"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797167648,
+        "label": "personnes pr\u00e9sentant un taux d\u2019invalidit\u00e9",
+        "lrs": [
+          {
+            "label": "personnes pr\u00e9sentant un taux d\u2019invalidit\u00e9",
+            "co_texts": [
+              "personnes pr\u00e9sentant un taux d\u2019invalidit\u00e9"
+            ]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724136032,
+        "label": "ccas",
+        "lrs": [{ "label": "ccas", "co_texts": ["ccas"] }]
+      },
+      {
+        "concept_id": 140645797175904,
+        "label": "d\u00e9veloppement personnel",
+        "lrs": [
+          {
+            "label": "d\u00e9veloppement personnel",
+            "co_texts": ["d\u00e9veloppement personnel"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797167840,
+        "label": "p\u00f4le handicap",
+        "lrs": [
+          { "label": "p\u00f4le handicap", "co_texts": ["p\u00f4le handicap"] }
+        ]
+      },
+      {
+        "concept_id": 140645724136224,
+        "label": "enseignante sp\u00e9cialis\u00e9e",
+        "lrs": [
+          {
+            "label": "enseignante sp\u00e9cialis\u00e9e",
+            "co_texts": ["enseignante sp\u00e9cialis\u00e9e"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797176096,
+        "label": "cin\u00e9ma",
+        "lrs": [{ "label": "cin\u00e9ma", "co_texts": ["cin\u00e9ma"] }]
+      },
+      {
+        "concept_id": 140645797168032,
+        "label": "insertion professionnelle",
+        "lrs": [
+          {
+            "label": "insertion professionnelle",
+            "co_texts": ["insertion professionnelle"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724136416,
+        "label": "d\u00e9veloppement psychomoteur",
+        "lrs": [
+          {
+            "label": "d\u00e9veloppement psychomoteur",
+            "co_texts": ["d\u00e9veloppement psychomoteur"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797176288,
+        "label": "cadre",
+        "lrs": [{ "label": "cadre", "co_texts": ["cadre"] }]
+      },
+      {
+        "concept_id": 140645797168224,
+        "label": "activit\u00e9 sportive",
+        "lrs": [
+          {
+            "label": "activit\u00e9 sportive",
+            "co_texts": ["activit\u00e9 sportive"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724136608,
+        "label": "structure d\u2019information",
+        "lrs": [
+          {
+            "label": "structure d\u2019information",
+            "co_texts": ["structure d\u2019information"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797176480,
+        "label": "demande de prestation de compensation du handicap",
+        "lrs": [
+          {
+            "label": "demande de prestation de compensation du handicap",
+            "co_texts": ["demande de prestation de compensation du handicap"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797168416,
+        "label": "droits fondamentaux",
+        "lrs": [
+          { "label": "droits fondamentaux", "co_texts": ["droits fondamentaux"] }
+        ]
+      },
+      {
+        "concept_id": 140645724136800,
+        "label": "gym adapt\u00e9e",
+        "lrs": [{ "label": "gym adapt\u00e9e", "co_texts": ["gym adapt\u00e9e"] }]
+      },
+      {
+        "concept_id": 140645797176672,
+        "label": "seniors",
+        "lrs": [{ "label": "seniors", "co_texts": ["seniors"] }]
+      },
+      {
+        "concept_id": 140645797168608,
+        "label": "espace public",
+        "lrs": [{ "label": "espace public", "co_texts": ["espace public"] }]
+      },
+      {
+        "concept_id": 140645724136992,
+        "label": "aidants",
+        "lrs": [{ "label": "aidants", "co_texts": ["aidants"] }]
+      },
+      {
+        "concept_id": 140645797176864,
+        "label": "cours de gymnastique",
+        "lrs": [
+          {
+            "label": "cours de gymnastique",
+            "co_texts": ["cours de gymnastique"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797168800,
+        "label": "individus",
+        "lrs": [{ "label": "individus", "co_texts": ["individus"] }]
+      },
+      {
+        "concept_id": 140645724137184,
+        "label": "centre communal d'action sociale",
+        "lrs": [
+          {
+            "label": "centre communal d\u2019action sociale",
+            "co_texts": ["centre communal d\u2019action sociale"]
+          },
+          {
+            "label": "centre communal d'action sociale",
+            "co_texts": ["centre communal d'action sociale"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797177056,
+        "label": "logements",
+        "lrs": [{ "label": "logements", "co_texts": ["logements"] }]
+      },
+      {
+        "concept_id": 140645797168992,
+        "label": "art th\u00e9rapeute",
+        "lrs": [
+          { "label": "art th\u00e9rapeute", "co_texts": ["art th\u00e9rapeute"] }
+        ]
+      },
+      {
+        "concept_id": 140645724137376,
+        "label": "professionnels",
+        "lrs": [{ "label": "professionnels", "co_texts": ["professionnels"] }]
+      },
+      {
+        "concept_id": 140645797177248,
+        "label": "bowling",
+        "lrs": [{ "label": "bowling", "co_texts": ["bowling"] }]
+      },
+      {
+        "concept_id": 140645797169184,
+        "label": "pr\u00e9sence m\u00e9dicale",
+        "lrs": [
+          {
+            "label": "pr\u00e9sence m\u00e9dicale",
+            "co_texts": ["pr\u00e9sence m\u00e9dicale"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797177440,
+        "label": "optile",
+        "lrs": [{ "label": "optile", "co_texts": ["optile"] }]
+      },
+      {
+        "concept_id": 140645724137664,
+        "label": "sorties",
+        "lrs": [{ "label": "sorties", "co_texts": ["sorties"] }]
+      },
+      {
+        "concept_id": 140645797169376,
+        "label": "communication",
+        "lrs": [{ "label": "communication", "co_texts": ["communication"] }]
+      },
+      {
+        "concept_id": 140645797177632,
+        "label": "formation des parents",
+        "lrs": [
+          {
+            "label": "formation des parents",
+            "co_texts": ["formation des parents"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724129648,
+        "label": "services",
+        "lrs": [{ "label": "services", "co_texts": ["services"] }]
+      },
+      {
+        "concept_id": 140645724137856,
+        "label": "dispositif de t\u00e9l\u00e9assistance",
+        "lrs": [
+          {
+            "label": "dispositif de t\u00e9l\u00e9assistance",
+            "co_texts": ["dispositif de t\u00e9l\u00e9assistance"]
+          },
+          {
+            "label": "t\u00e9l\u00e9assistance",
+            "co_texts": ["t\u00e9l\u00e9assistance"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724129696,
+        "label": "charte handicap",
+        "lrs": [{ "label": "charte handicap", "co_texts": ["charte handicap"] }]
+      },
+      {
+        "concept_id": 140645797169568,
+        "label": "informations n\u00e9cessaires",
+        "lrs": [
+          {
+            "label": "informations n\u00e9cessaires",
+            "co_texts": ["informations n\u00e9cessaires"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797177824,
+        "label": "int\u00e9gration sociale",
+        "lrs": [
+          {
+            "label": "int\u00e9gration sociale",
+            "co_texts": ["int\u00e9gration sociale"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724138048,
+        "label": "\u00e9v\u00e9nements de sensibilisation",
+        "lrs": [
+          {
+            "label": "\u00e9v\u00e9nements de sensibilisation",
+            "co_texts": ["\u00e9v\u00e9nements de sensibilisation"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797169760,
+        "label": "personnes d\u00e9pendantes",
+        "lrs": [
+          {
+            "label": "personnes d\u00e9pendantes",
+            "co_texts": ["personnes d\u00e9pendantes"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797178016,
+        "label": "actions",
+        "lrs": [{ "label": "actions", "co_texts": ["actions"] }]
+      },
+      {
+        "concept_id": 140645797169952,
+        "label": "qualit\u00e9 de vie",
+        "lrs": [
+          { "label": "qualit\u00e9 de vie", "co_texts": ["qualit\u00e9 de vie"] }
+        ]
+      },
+      {
+        "concept_id": 140645724138336,
+        "label": "d\u00e9cision",
+        "lrs": [{ "label": "d\u00e9cision", "co_texts": ["d\u00e9cision"] }]
+      },
+      {
+        "concept_id": 140645797178208,
+        "label": "emploi",
+        "lrs": [{ "label": "emploi", "co_texts": ["emploi"] }]
+      },
+      {
+        "concept_id": 140645797170144,
+        "label": "carte am\u00e9thyste",
+        "lrs": [
+          {
+            "label": "carte am\u00e9thyste",
+            "co_texts": ["carte am\u00e9thyste"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724138528,
+        "label": "opportunit\u00e9s",
+        "lrs": [
+          { "label": "opportunit\u00e9s", "co_texts": ["opportunit\u00e9s"] }
+        ]
+      },
+      {
+        "concept_id": 140645797178400,
+        "label": "s\u00e9ance de psychomotricit\u00e9",
+        "lrs": [
+          {
+            "label": "s\u00e9ance de psychomotricit\u00e9",
+            "co_texts": ["s\u00e9ance de psychomotricit\u00e9"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724130464,
+        "label": "ville de villeneuve-la-garenne",
+        "lrs": [
+          {
+            "label": "villeneuve-la-garenne",
+            "co_texts": ["villeneuve-la-garenne"]
+          },
+          {
+            "label": "ville de villeneuve-la-garenne",
+            "co_texts": ["ville de villeneuve-la-garenne"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797170336,
+        "label": "campagnes",
+        "lrs": [{ "label": "campagnes", "co_texts": ["campagnes"] }]
+      },
+      {
+        "concept_id": 140645724138720,
+        "label": "motricit\u00e9 globale",
+        "lrs": [
+          {
+            "label": "motricit\u00e9 globale",
+            "co_texts": ["motricit\u00e9 globale"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797178592,
+        "label": "service des sports",
+        "lrs": [
+          { "label": "service des sports", "co_texts": ["service des sports"] }
+        ]
+      },
+      {
+        "concept_id": 140645724130608,
+        "label": "groupe de parole",
+        "lrs": [{ "label": "groupe de parole", "co_texts": ["groupe de parole"] }]
+      },
+      {
+        "concept_id": 140645797170528,
+        "label": "p\u00e9riode",
+        "lrs": [{ "label": "p\u00e9riode", "co_texts": ["p\u00e9riode"] }]
+      },
+      {
+        "concept_id": 140645724138912,
+        "label": "accessibilit\u00e9",
+        "lrs": [
+          { "label": "accessibilit\u00e9", "co_texts": ["accessibilit\u00e9"] }
+        ]
+      },
+      {
+        "concept_id": 140645797178784,
+        "label": "autonomie",
+        "lrs": [{ "label": "autonomie", "co_texts": ["autonomie"] }]
+      },
+      {
+        "concept_id": 140645797170720,
+        "label": "diversit\u00e9 sociale",
+        "lrs": [
+          {
+            "label": "diversit\u00e9 sociale",
+            "co_texts": ["diversit\u00e9 sociale"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724139104,
+        "label": "prise en charge",
+        "lrs": [{ "label": "prise en charge", "co_texts": ["prise en charge"] }]
+      },
+      {
+        "concept_id": 140645797178976,
+        "label": "adultes en situation de handicap",
+        "lrs": [
+          {
+            "label": "adultes en situation de handicap",
+            "co_texts": ["adultes en situation de handicap"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797170912,
+        "label": "r\u00e9duction",
+        "lrs": [{ "label": "r\u00e9duction", "co_texts": ["r\u00e9duction"] }]
+      },
+      {
+        "concept_id": 140645724131088,
+        "label": "montage financier",
+        "lrs": [
+          { "label": "montage financier", "co_texts": ["montage financier"] }
+        ]
+      },
+      {
+        "concept_id": 140645724139296,
+        "label": "gestion",
+        "lrs": [{ "label": "gestion", "co_texts": ["gestion"] }]
+      },
+      {
+        "concept_id": 140645797179168,
+        "label": "cours de sports",
+        "lrs": [{ "label": "cours de sports", "co_texts": ["cours de sports"] }]
+      },
+      {
+        "concept_id": 140645797171104,
+        "label": "activit\u00e9s manuelles",
+        "lrs": [
+          {
+            "label": "activit\u00e9s manuelles",
+            "co_texts": ["activit\u00e9s manuelles"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724139488,
+        "label": "lien social",
+        "lrs": [{ "label": "lien social", "co_texts": ["lien social"] }]
+      },
+      {
+        "concept_id": 140645797179360,
+        "label": "repos",
+        "lrs": [{ "label": "repos", "co_texts": ["repos"] }]
+      },
+      {
+        "concept_id": 140645797171296,
+        "label": "population locale",
+        "lrs": [
+          { "label": "population locale", "co_texts": ["population locale"] }
+        ]
+      },
+      {
+        "concept_id": 140645724139680,
+        "label": "rencontres",
+        "lrs": [{ "label": "rencontres", "co_texts": ["rencontres"] }]
+      },
+      {
+        "concept_id": 140645797179552,
+        "label": "services adapt\u00e9s",
+        "lrs": [
+          {
+            "label": "services adapt\u00e9s",
+            "co_texts": ["services adapt\u00e9s"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797171488,
+        "label": "adulte",
+        "lrs": [{ "label": "adulte", "co_texts": ["adulte"] }]
+      },
+      {
+        "concept_id": 140645724139872,
+        "label": "besoins sp\u00e9cifiques",
+        "lrs": [
+          {
+            "label": "besoins sp\u00e9cifiques",
+            "co_texts": ["besoins sp\u00e9cifiques"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797179744,
+        "label": "objectifs",
+        "lrs": [{ "label": "objectifs", "co_texts": ["objectifs"] }]
+      },
+      {
+        "concept_id": 140645797171680,
+        "label": "r\u00e9seau ratp",
+        "lrs": [{ "label": "r\u00e9seau ratp", "co_texts": ["r\u00e9seau ratp"] }]
+      },
+      {
+        "concept_id": 140645724140064,
+        "label": "r\u00e9union",
+        "lrs": [{ "label": "r\u00e9union", "co_texts": ["r\u00e9union"] }]
+      },
+      {
+        "concept_id": 140645797179936,
+        "label": "groupes de personnes handicap\u00e9es",
+        "lrs": [
+          {
+            "label": "groupes de personnes handicap\u00e9es",
+            "co_texts": ["groupes de personnes handicap\u00e9es"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724132000,
+        "label": "participation citoyenne",
+        "lrs": [
+          {
+            "label": "participation citoyenne",
+            "co_texts": ["participation citoyenne"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797171872,
+        "label": "activit\u00e9s",
+        "lrs": [{ "label": "activit\u00e9s", "co_texts": ["activit\u00e9s"] }]
+      },
+      {
+        "concept_id": 140645724140256,
+        "label": "hauts-de-seine",
+        "lrs": [{ "label": "hauts-de-seine", "co_texts": ["hauts-de-seine"] }]
+      },
+      {
+        "concept_id": 140645797180128,
+        "label": "transports",
+        "lrs": [{ "label": "transports", "co_texts": ["transports"] }]
+      },
+      {
+        "concept_id": 140645724132096,
+        "label": "mission handicap",
+        "lrs": [
+          { "label": "mission handicap", "co_texts": ["mission handicap"] },
+          {
+            "label": "mission handicap solidarit\u00e9",
+            "co_texts": ["mission handicap solidarit\u00e9"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797172064,
+        "label": "ost\u00e9opathe",
+        "lrs": [{ "label": "ost\u00e9opathe", "co_texts": ["ost\u00e9opathe"] }]
+      },
+      {
+        "concept_id": 140645724140448,
+        "label": "association c\u0153ur de lionne",
+        "lrs": [
+          {
+            "label": "association c\u0153ur de lionne",
+            "co_texts": ["association c\u0153ur de lionne"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797180320,
+        "label": "enseignante p\u00e9dagogique",
+        "lrs": [
+          {
+            "label": "enseignante p\u00e9dagogique",
+            "co_texts": ["enseignante p\u00e9dagogique"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724132336,
+        "label": "dossier mdph",
+        "lrs": [
+          {
+            "label": "constitution des dossiers mdph",
+            "co_texts": ["constitution des dossiers mdph"]
+          },
+          { "label": "dossier mdph", "co_texts": ["dossier mdph"] }
+        ]
+      },
+      {
+        "concept_id": 140645797172256,
+        "label": "sncf",
+        "lrs": [{ "label": "sncf", "co_texts": ["sncf"] }]
+      },
+      {
+        "concept_id": 140645724140640,
+        "label": "d\u00e9marches",
+        "lrs": [{ "label": "d\u00e9marches", "co_texts": ["d\u00e9marches"] }]
+      },
+      {
+        "concept_id": 140645797180512,
+        "label": "s\u00e9ances",
+        "lrs": [{ "label": "s\u00e9ances", "co_texts": ["s\u00e9ances"] }]
+      },
+      {
+        "concept_id": 140645797172448,
+        "label": "communaut\u00e9",
+        "lrs": [{ "label": "communaut\u00e9", "co_texts": ["communaut\u00e9"] }]
+      },
+      {
+        "concept_id": 140645724140832,
+        "label": "formation",
+        "lrs": [{ "label": "formation", "co_texts": ["formation"] }]
+      },
+      {
+        "concept_id": 140645797180704,
+        "label": "services de soutien",
+        "lrs": [
+          { "label": "services de soutien", "co_texts": ["services de soutien"] }
+        ]
+      },
+      {
+        "concept_id": 140645724132768,
+        "label": "soutien",
+        "lrs": [
+          { "label": "soutien", "co_texts": ["soutien"] },
+          { "label": "soutien complet", "co_texts": ["soutien complet"] }
+        ]
+      },
+      {
+        "concept_id": 140645797172640,
+        "label": "association joie de vivre",
+        "lrs": [
+          {
+            "label": "association joie de vivre",
+            "co_texts": ["association joie de vivre"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724141024,
+        "label": "ateliers",
+        "lrs": [{ "label": "ateliers", "co_texts": ["ateliers"] }]
+      },
+      {
+        "concept_id": 140645797180896,
+        "label": "bilans",
+        "lrs": [{ "label": "bilans", "co_texts": ["bilans"] }]
+      },
+      {
+        "concept_id": 140645797172832,
+        "label": "routine quotidienne",
+        "lrs": [
+          { "label": "routine quotidienne", "co_texts": ["routine quotidienne"] }
+        ]
+      },
+      {
+        "concept_id": 140645803210352,
+        "label": "inclusion sociale",
+        "lrs": [
+          { "label": "inclusion", "co_texts": ["inclusion"] },
+          { "label": "inclusion sociale", "co_texts": ["inclusion sociale"] }
+        ]
+      },
+      {
+        "concept_id": 140645724141216,
+        "label": "jeunes handicap\u00e9s mentaux",
+        "lrs": [
+          {
+            "label": "jeunes handicap\u00e9s mentaux",
+            "co_texts": ["jeunes handicap\u00e9s mentaux"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797181088,
+        "label": "insertion sociale",
+        "lrs": [
+          { "label": "insertion sociale", "co_texts": ["insertion sociale"] }
+        ]
+      },
+      {
+        "concept_id": 140645724133056,
+        "label": "associations",
+        "lrs": [
+          { "label": "associations", "co_texts": ["associations"] },
+          { "label": "association", "co_texts": ["association"] }
+        ]
+      },
+      {
+        "concept_id": 140645797173024,
+        "label": "\u00eele-de-france",
+        "lrs": [
+          { "label": "\u00eele-de-france", "co_texts": ["\u00eele-de-france"] }
+        ]
+      },
+      {
+        "concept_id": 140645724141408,
+        "label": "d\u00e9veloppement",
+        "lrs": [
+          { "label": "d\u00e9veloppement", "co_texts": ["d\u00e9veloppement"] }
+        ]
+      },
+      {
+        "concept_id": 140645797181280,
+        "label": "probl\u00e9matiques du handicap",
+        "lrs": [
+          {
+            "label": "probl\u00e9matiques du handicap",
+            "co_texts": ["probl\u00e9matiques du handicap"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797173216,
+        "label": "banlieue parisienne",
+        "lrs": [
+          { "label": "banlieue parisienne", "co_texts": ["banlieue parisienne"] }
+        ]
+      },
+      {
+        "concept_id": 140645724141600,
+        "label": "bien-\u00eatre",
+        "lrs": [{ "label": "bien-\u00eatre", "co_texts": ["bien-\u00eatre"] }]
+      },
+      {
+        "concept_id": 140645724133536,
+        "label": "\u00e9changes",
+        "lrs": [
+          { "label": "\u00e9change", "co_texts": ["\u00e9change"] },
+          { "label": "\u00e9changes", "co_texts": ["\u00e9changes"] }
+        ]
+      },
+      {
+        "concept_id": 140645797173408,
+        "label": "jeux ext\u00e9rieurs",
+        "lrs": [
+          {
+            "label": "jeux ext\u00e9rieurs",
+            "co_texts": ["jeux ext\u00e9rieurs"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724141792,
+        "label": "organismes",
+        "lrs": [{ "label": "organismes", "co_texts": ["organismes"] }]
+      },
+      {
+        "concept_id": 140645797173600,
+        "label": "accueil",
+        "lrs": [{ "label": "accueil", "co_texts": ["accueil"] }]
+      },
+      {
+        "concept_id": 140645724141984,
+        "label": "mus\u00e9es",
+        "lrs": [{ "label": "mus\u00e9es", "co_texts": ["mus\u00e9es"] }]
+      },
+      {
+        "concept_id": 140645797173792,
+        "label": "fratrie",
+        "lrs": [{ "label": "fratrie", "co_texts": ["fratrie"] }]
+      },
+      {
+        "concept_id": 140645724142176,
+        "label": "familles",
+        "lrs": [{ "label": "familles", "co_texts": ["familles"] }]
+      },
+      {
+        "concept_id": 140645803211408,
+        "label": "personnes en situation de handicap",
+        "lrs": [
+          {
+            "label": "personnes handicap\u00e9es",
+            "co_texts": ["personnes handicap\u00e9es"]
+          },
+          { "label": "handicap", "co_texts": ["handicap"] },
+          {
+            "label": "personnes en situation de handicap",
+            "co_texts": ["personnes en situation de handicap"]
+          },
+          {
+            "label": "situation de handicap",
+            "co_texts": ["situation de handicap"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797173984,
+        "label": "\u00e9panouissement",
+        "lrs": [
+          { "label": "\u00e9panouissement", "co_texts": ["\u00e9panouissement"] }
+        ]
+      },
+      {
+        "concept_id": 140645724142368,
+        "label": "s\u00e9jours familiaux",
+        "lrs": [
+          {
+            "label": "s\u00e9jours familiaux",
+            "co_texts": ["s\u00e9jours familiaux"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797174176,
+        "label": "jardin d\u2019acclimatation",
+        "lrs": [
+          {
+            "label": "jardin d\u2019acclimatation",
+            "co_texts": ["jardin d\u2019acclimatation"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724142560,
+        "label": "aides",
+        "lrs": [{ "label": "aides", "co_texts": ["aides"] }]
+      },
+      {
+        "concept_id": 140645724134496,
+        "label": "enfant",
+        "lrs": [
+          { "label": "enfants", "co_texts": ["enfants"] },
+          { "label": "enfant", "co_texts": ["enfant"] }
+        ]
+      },
+      {
+        "concept_id": 140645797174368,
+        "label": "activit\u00e9 physique",
+        "lrs": [
+          {
+            "label": "activit\u00e9 physique",
+            "co_texts": ["activit\u00e9 physique"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724142752,
+        "label": "soutien aux familles",
+        "lrs": [
+          {
+            "label": "soutien aux familles",
+            "co_texts": ["soutien aux familles"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797174560,
+        "label": "lien",
+        "lrs": [{ "label": "lien", "co_texts": ["lien"] }]
+      },
+      {
+        "concept_id": 140651322490160,
+        "label": "accompagnement social",
+        "lrs": [
+          {
+            "label": "service d\u2019accompagnement",
+            "co_texts": ["service d\u2019accompagnement"]
+          },
+          {
+            "label": "accompagnement social",
+            "co_texts": ["accompagnement social"]
+          },
+          { "label": "accompagnement", "co_texts": ["accompagnement"] }
+        ]
+      },
+      {
+        "concept_id": 140645724142944,
+        "label": "implication active",
+        "lrs": [
+          { "label": "implication active", "co_texts": ["implication active"] }
+        ]
+      },
+      {
+        "concept_id": 140645724134784,
+        "label": "avenue de verdun",
+        "lrs": [{ "label": "avenue de verdun", "co_texts": ["avenue de verdun"] }]
+      },
+      {
+        "concept_id": 140645797174752,
+        "label": "conditions d\u2019adh\u00e9sion",
+        "lrs": [
+          {
+            "label": "conditions d\u2019adh\u00e9sion",
+            "co_texts": ["conditions d\u2019adh\u00e9sion"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724143136,
+        "label": "public",
+        "lrs": [{ "label": "public", "co_texts": ["public"] }]
+      },
+      {
+        "concept_id": 140645724135072,
+        "label": "psychologue",
+        "lrs": [{ "label": "psychologue", "co_texts": ["psychologue"] }]
+      },
+      {
+        "concept_id": 140645797174944,
+        "label": "adolescents",
+        "lrs": [{ "label": "adolescents", "co_texts": ["adolescents"] }]
+      },
+      {
+        "concept_id": 140645724143328,
+        "label": "psychologue comportementaliste",
+        "lrs": [
+          {
+            "label": "psychologue comportementaliste",
+            "co_texts": ["psychologue comportementaliste"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645724135264,
+        "label": "organismes partenaires",
+        "lrs": [
+          {
+            "label": "organismes partenaires",
+            "co_texts": ["organismes partenaires"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140645797175136,
+        "label": "proc\u00e9dure",
+        "lrs": [{ "label": "proc\u00e9dure", "co_texts": ["proc\u00e9dure"] }]
+      },
+      {
+        "concept_id": 140645724143520,
+        "label": "bien-\u00eatre g\u00e9n\u00e9ral",
+        "lrs": [
+          {
+            "label": "bien-\u00eatre g\u00e9n\u00e9ral",
+            "co_texts": ["bien-\u00eatre g\u00e9n\u00e9ral"]
+          }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "repr\u00e9sentant",
+        "lrs": [
+          { "label": "repr\u00e9sentant", "co_texts": ["repr\u00e9sentant"] }
+        ]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "accompagnement",
+        "lrs": [
+          { "label": "accompagner", "co_texts": ["accompagner"] },
+          { "label": "accompagnement", "co_texts": ["accompagnement"] }
+        ]
+      },
+      {
+        "source_concept_id": 140645724129648,
+        "destination_concept_id": 140645797174944,
+        "label": "accompagnement",
+        "lrs": [{ "label": "accompagnement", "co_texts": ["accompagnement"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "\u00e9panouissement",
+        "lrs": [
+          { "label": "\u00e9panouissement", "co_texts": ["\u00e9panouissement"] }
+        ]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "efforce",
+        "lrs": [{ "label": "efforce", "co_texts": ["efforce"] }]
+      },
+      {
+        "source_concept_id": 140645797167840,
+        "destination_concept_id": 140645724129648,
+        "label": "proposent",
+        "lrs": [{ "label": "proposent", "co_texts": ["proposent"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "rompre",
+        "lrs": [{ "label": "rompre", "co_texts": ["rompre"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "organisation",
+        "lrs": [{ "label": "organisation", "co_texts": ["organisation"] }]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140651322490160,
+        "label": "soutien",
+        "lrs": [{ "label": "soutien", "co_texts": ["soutien"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "promouvoir",
+        "lrs": [{ "label": "promouvoir", "co_texts": ["promouvoir"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "cr\u00e9er",
+        "lrs": [{ "label": "cr\u00e9er", "co_texts": ["cr\u00e9er"] }]
+      },
+      {
+        "source_concept_id": 140645724132768,
+        "destination_concept_id": 140645797174944,
+        "label": "accompagnement",
+        "lrs": [{ "label": "accompagnement", "co_texts": ["accompagnement"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "d\u00e9marches",
+        "lrs": [{ "label": "d\u00e9marches", "co_texts": ["d\u00e9marches"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "r\u00e9pondant",
+        "lrs": [{ "label": "r\u00e9pondant", "co_texts": ["r\u00e9pondant"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "mission",
+        "lrs": [{ "label": "mission", "co_texts": ["mission"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "favoriser",
+        "lrs": [
+          { "label": "favoriser", "co_texts": ["favoriser"] },
+          { "label": "favorisant", "co_texts": ["favorisant"] }
+        ]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "confront\u00e9s",
+        "lrs": [{ "label": "confront\u00e9s", "co_texts": ["confront\u00e9s"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "recontacter",
+        "lrs": [{ "label": "recontacter", "co_texts": ["recontacter"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "promotion",
+        "lrs": [{ "label": "promotion", "co_texts": ["promotion"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "handicap",
+        "lrs": [{ "label": "handicap", "co_texts": ["handicap"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "retrouver",
+        "lrs": [{ "label": "retrouver", "co_texts": ["retrouver"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "transmis",
+        "lrs": [{ "label": "transmis", "co_texts": ["transmis"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "formuler",
+        "lrs": [{ "label": "formuler", "co_texts": ["formuler"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "constituer",
+        "lrs": [{ "label": "constituer", "co_texts": ["constituer"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "regrouper",
+        "lrs": [{ "label": "regrouper", "co_texts": ["regrouper"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "offrent",
+        "lrs": [
+          { "label": "offrant", "co_texts": ["offrant"] },
+          { "label": "offrent", "co_texts": ["offrent"] }
+        ]
+      },
+      {
+        "source_concept_id": 140645724137184,
+        "destination_concept_id": 140645724134784,
+        "label": "action",
+        "lrs": [{ "label": "action", "co_texts": ["action"] }]
+      },
+      {
+        "source_concept_id": 140645797167840,
+        "destination_concept_id": 140645724136608,
+        "label": "est",
+        "lrs": [{ "label": "est", "co_texts": ["est"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "\u00e9change",
+        "lrs": [{ "label": "\u00e9change", "co_texts": ["\u00e9change"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "anim\u00e9e",
+        "lrs": [{ "label": "anim\u00e9e", "co_texts": ["anim\u00e9e"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "joue",
+        "lrs": [{ "label": "joue", "co_texts": ["joue"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "encourager",
+        "lrs": [{ "label": "encourager", "co_texts": ["encourager"] }]
+      },
+      {
+        "source_concept_id": 140645797171872,
+        "destination_concept_id": 140645724133056,
+        "label": "propos\u00e9es",
+        "lrs": [{ "label": "propos\u00e9es", "co_texts": ["propos\u00e9es"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "assurant",
+        "lrs": [{ "label": "assurant", "co_texts": ["assurant"] }]
+      },
+      {
+        "source_concept_id": 140645724129648,
+        "destination_concept_id": 140645724134496,
+        "label": "accompagnement",
+        "lrs": [{ "label": "accompagnement", "co_texts": ["accompagnement"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "inclusion",
+        "lrs": [{ "label": "inclusion", "co_texts": ["inclusion"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "garantissant",
+        "lrs": [{ "label": "garantissant", "co_texts": ["garantissant"] }]
+      },
+      {
+        "source_concept_id": 140645724133536,
+        "destination_concept_id": 140645724135456,
+        "label": "communication",
+        "lrs": [{ "label": "communication", "co_texts": ["communication"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "activit\u00e9s",
+        "lrs": [{ "label": "activit\u00e9s", "co_texts": ["activit\u00e9s"] }]
+      },
+      {
+        "source_concept_id": 140645797180704,
+        "destination_concept_id": 140645724134496,
+        "label": "accompagnement",
+        "lrs": [{ "label": "accompagnement", "co_texts": ["accompagnement"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "coordonn\u00e9e",
+        "lrs": [{ "label": "coordonn\u00e9e", "co_texts": ["coordonn\u00e9e"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "sensibiliser",
+        "lrs": [
+          { "label": "sensibilisation", "co_texts": ["sensibilisation"] },
+          { "label": "sensibiliser", "co_texts": ["sensibiliser"] }
+        ]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "pr\u00e9tendre",
+        "lrs": [{ "label": "pr\u00e9tendre", "co_texts": ["pr\u00e9tendre"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "organiser",
+        "lrs": [{ "label": "organiser", "co_texts": ["organiser"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "d\u00e9velopper",
+        "lrs": [{ "label": "d\u00e9velopper", "co_texts": ["d\u00e9velopper"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "respecte",
+        "lrs": [{ "label": "respecte", "co_texts": ["respecte"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "permettre",
+        "lrs": [
+          { "label": "permettre", "co_texts": ["permettre"] },
+          { "label": "permet", "co_texts": ["permet"] },
+          { "label": "permettant", "co_texts": ["permettant"] }
+        ]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645724132768,
+        "label": "proposent",
+        "lrs": [{ "label": "proposent", "co_texts": ["proposent"] }]
+      },
+      {
+        "source_concept_id": 140645724129648,
+        "destination_concept_id": 140651322490160,
+        "label": "soutien",
+        "lrs": [{ "label": "soutien", "co_texts": ["soutien"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "contribuant",
+        "lrs": [{ "label": "contribuant", "co_texts": ["contribuant"] }]
+      },
+      {
+        "source_concept_id": 140645724133056,
+        "destination_concept_id": 140645724132768,
+        "label": "d\u00e9die",
+        "lrs": [{ "label": "d\u00e9die", "co_texts": ["d\u00e9die"] }]
+      },
+      {
+        "source_concept_id": 140645797171872,
+        "destination_concept_id": 140645724133056,
+        "label": "par",
+        "lrs": [{ "label": "par", "co_texts": ["par"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "aide",
+        "lrs": [
+          { "label": "aider", "co_texts": ["aider"] },
+          { "label": "aide", "co_texts": ["aide"] }
+        ]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "apport\u00e9e",
+        "lrs": [{ "label": "apport\u00e9e", "co_texts": ["apport\u00e9e"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "atteindre",
+        "lrs": [{ "label": "atteindre", "co_texts": ["atteindre"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "cr\u00e9\u00e9",
+        "lrs": [{ "label": "cr\u00e9\u00e9", "co_texts": ["cr\u00e9\u00e9"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "b\u00e9n\u00e9ficier",
+        "lrs": [
+          {
+            "label": "b\u00e9n\u00e9ficier",
+            "co_texts": ["b\u00e9n\u00e9ficier"]
+          }
+        ]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "participation",
+        "lrs": [{ "label": "participation", "co_texts": ["participation"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "faciliter",
+        "lrs": [
+          { "label": "facilite", "co_texts": ["facilite"] },
+          { "label": "faciliter", "co_texts": ["faciliter"] }
+        ]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645724129648,
+        "label": "offrant",
+        "lrs": [{ "label": "offrant", "co_texts": ["offrant"] }]
+      },
+      {
+        "source_concept_id": 140645724129648,
+        "destination_concept_id": 140645797177824,
+        "label": "facilitant",
+        "lrs": [{ "label": "facilitant", "co_texts": ["facilitant"] }]
+      },
+      {
+        "source_concept_id": 140645797167840,
+        "destination_concept_id": 140645797180704,
+        "label": "proposent",
+        "lrs": [{ "label": "proposent", "co_texts": ["proposent"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "soutien",
+        "lrs": [{ "label": "soutien", "co_texts": ["soutien"] }]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645724134784,
+        "label": "action",
+        "lrs": [{ "label": "action", "co_texts": ["action"] }]
+      },
+      {
+        "source_concept_id": 140645797167840,
+        "destination_concept_id": 140645724132768,
+        "label": "proposent",
+        "lrs": [{ "label": "proposent", "co_texts": ["proposent"] }]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645797180704,
+        "label": "proposent",
+        "lrs": [{ "label": "proposent", "co_texts": ["proposent"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "partager",
+        "lrs": [{ "label": "partager", "co_texts": ["partager"] }]
+      },
+      {
+        "source_concept_id": 140651322490160,
+        "destination_concept_id": 140645797181088,
+        "label": "accompagnement",
+        "lrs": [{ "label": "accompagnement", "co_texts": ["accompagnement"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "g\u00e9rer",
+        "lrs": [{ "label": "g\u00e9rer", "co_texts": ["g\u00e9rer"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "formation",
+        "lrs": [{ "label": "formation", "co_texts": ["formation"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "toucher",
+        "lrs": [{ "label": "toucher", "co_texts": ["toucher"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "travail",
+        "lrs": [{ "label": "travail", "co_texts": ["travail"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "mise en place",
+        "lrs": [{ "label": "mise en place", "co_texts": ["mise en place"] }]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645724136608,
+        "label": "est",
+        "lrs": [{ "label": "est", "co_texts": ["est"] }]
+      },
+      {
+        "source_concept_id": 140645724135456,
+        "destination_concept_id": 140645724130608,
+        "label": "mise en place",
+        "lrs": [{ "label": "mise en place", "co_texts": ["mise en place"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "prise en charge",
+        "lrs": [{ "label": "prise en charge", "co_texts": ["prise en charge"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "dynamiser",
+        "lrs": [{ "label": "dynamiser", "co_texts": ["dynamiser"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "r\u00e9alisation",
+        "lrs": [{ "label": "r\u00e9alisation", "co_texts": ["r\u00e9alisation"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "lire",
+        "lrs": [{ "label": "lire", "co_texts": ["lire"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "fournir",
+        "lrs": [{ "label": "fournir", "co_texts": ["fournir"] }]
+      },
+      {
+        "source_concept_id": 140645797179552,
+        "destination_concept_id": 140645797177824,
+        "label": "facilitant",
+        "lrs": [{ "label": "facilitant", "co_texts": ["facilitant"] }]
+      },
+      {
+        "source_concept_id": 140645724137184,
+        "destination_concept_id": 140645724134784,
+        "label": "sociale",
+        "lrs": [{ "label": "sociale", "co_texts": ["sociale"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "am\u00e9liorer",
+        "lrs": [{ "label": "am\u00e9liorer", "co_texts": ["am\u00e9liorer"] }]
+      },
+      {
+        "source_concept_id": 140645797180704,
+        "destination_concept_id": 140645797174944,
+        "label": "accompagnement",
+        "lrs": [{ "label": "accompagnement", "co_texts": ["accompagnement"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "offrir",
+        "lrs": [{ "label": "offrir", "co_texts": ["offrir"] }]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645724136416,
+        "label": "veillant",
+        "lrs": [{ "label": "veillant", "co_texts": ["veillant"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "demander",
+        "lrs": [
+          { "label": "demande", "co_texts": ["demande"] },
+          { "label": "demander", "co_texts": ["demander"] }
+        ]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "sur",
+        "lrs": [{ "label": "sur", "co_texts": ["sur"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "\u0153uvre",
+        "lrs": [{ "label": "\u0153uvre", "co_texts": ["\u0153uvre"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "rester",
+        "lrs": [{ "label": "rester", "co_texts": ["rester"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "avoir",
+        "lrs": [{ "label": "avoir", "co_texts": ["avoir"] }]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645724129648,
+        "label": "proposent",
+        "lrs": [{ "label": "proposent", "co_texts": ["proposent"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "pratiquer",
+        "lrs": [{ "label": "pratiquer", "co_texts": ["pratiquer"] }]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645724141408,
+        "label": "veillant",
+        "lrs": [{ "label": "veillant", "co_texts": ["veillant"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "envoyer",
+        "lrs": [{ "label": "envoyer", "co_texts": ["envoyer"] }]
+      },
+      {
+        "source_concept_id": 140645803211408,
+        "destination_concept_id": 140645797179552,
+        "label": "offrant",
+        "lrs": [{ "label": "offrant", "co_texts": ["offrant"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "permanences",
+        "lrs": [{ "label": "permanences", "co_texts": ["permanences"] }]
+      },
+      {
+        "source_concept_id": 140645724132768,
+        "destination_concept_id": 140645724134496,
+        "label": "accompagnement",
+        "lrs": [{ "label": "accompagnement", "co_texts": ["accompagnement"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "rdv",
+        "lrs": [{ "label": "rdv", "co_texts": ["rdv"] }]
+      },
+      {
+        "source_concept_id": 140645797180704,
+        "destination_concept_id": 140651322490160,
+        "label": "soutien",
+        "lrs": [{ "label": "soutien", "co_texts": ["soutien"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "r\u00e9duction",
+        "lrs": [{ "label": "r\u00e9duction", "co_texts": ["r\u00e9duction"] }]
+      }
+    ],
+    "metarelations": [
+      {
+        "source_concept_id": 140645724142944,
+        "destination_concept_id": 140645724132000,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797181280,
+        "destination_concept_id": 140645724135840,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797175328,
+        "destination_concept_id": 140645724132000,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797175520,
+        "destination_concept_id": 140645797167264,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797176288,
+        "destination_concept_id": 140645797168608,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797170528,
+        "destination_concept_id": 140645797180512,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797172832,
+        "destination_concept_id": 140645724143520,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724141216,
+        "destination_concept_id": 140645797174944,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724141024,
+        "destination_concept_id": 140645797171872,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797172256,
+        "destination_concept_id": 140645797180128,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797177440,
+        "destination_concept_id": 140645797180128,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797171680,
+        "destination_concept_id": 140645797180128,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724139488,
+        "destination_concept_id": 140645724139680,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797170720,
+        "destination_concept_id": 140645797171296,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724138912,
+        "destination_concept_id": 140645724132000,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797170912,
+        "destination_concept_id": 140645797170144,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724138720,
+        "destination_concept_id": 140645724136416,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797167456,
+        "destination_concept_id": 140645724136416,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797177632,
+        "destination_concept_id": 140645724142752,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724138048,
+        "destination_concept_id": 140645797170336,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724130608,
+        "destination_concept_id": 140645797169376,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797168992,
+        "destination_concept_id": 140645724137376,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797180320,
+        "destination_concept_id": 140645724137376,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724136224,
+        "destination_concept_id": 140645724137376,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724135072,
+        "destination_concept_id": 140645724137376,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724139296,
+        "destination_concept_id": 140645797175328,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797178400,
+        "destination_concept_id": 140645724136416,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724138336,
+        "destination_concept_id": 140645724139296,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797176864,
+        "destination_concept_id": 140645797168224,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724140832,
+        "destination_concept_id": 140645724135840,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724136800,
+        "destination_concept_id": 140645797174368,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724142752,
+        "destination_concept_id": 140645797180704,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797179552,
+        "destination_concept_id": 140645724129648,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724143520,
+        "destination_concept_id": 140645724141600,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724141600,
+        "destination_concept_id": 140645797169952,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797169376,
+        "destination_concept_id": 140645724135840,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797168032,
+        "destination_concept_id": 140645797178208,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797179744,
+        "destination_concept_id": 140645797178016,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724140640,
+        "destination_concept_id": 140645724129648,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797178016,
+        "destination_concept_id": 140645724129648,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797176672,
+        "destination_concept_id": 140645797169760,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724143136,
+        "destination_concept_id": 140645797168800,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724135456,
+        "destination_concept_id": 140645724136992,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724142560,
+        "destination_concept_id": 140645724129648,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724142368,
+        "destination_concept_id": 140645797171872,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797174176,
+        "destination_concept_id": 140645724137664,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797167840,
+        "destination_concept_id": 140645724136608,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797177248,
+        "destination_concept_id": 140645724137664,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797176096,
+        "destination_concept_id": 140645724137664,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724141984,
+        "destination_concept_id": 140645724137664,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645724137664,
+        "destination_concept_id": 140645797171872,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797177056,
+        "destination_concept_id": 140645797169760,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140645797180704,
+        "destination_concept_id": 140645724142752,
+        "label": "is_generalised_by",
+        "lrs": []
+      }
+    ],
+    "rdf_graph": null
+}
+  

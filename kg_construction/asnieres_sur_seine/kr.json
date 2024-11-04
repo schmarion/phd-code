@@ -1,0 +1,747 @@
+{
+    "concepts": [
+      {
+        "concept_id": 140158416285712,
+        "label": "mairieasnieres",
+        "lrs": [{ "label": "mairieasnieres", "co_texts": [] }]
+      },
+      {
+        "concept_id": 140158416281632,
+        "label": "acteurs sociaux",
+        "lrs": [{ "label": "acteurs sociaux", "co_texts": ["acteurs sociaux"] }]
+      },
+      {
+        "concept_id": 140158416279568,
+        "label": "plateforme de concertation",
+        "lrs": [
+          {
+            "label": "plateforme de concertation",
+            "co_texts": ["plateforme de concertation"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416277648,
+        "label": "m\u00e9dico-sociaux",
+        "lrs": [
+          { "label": "m\u00e9dico-sociaux", "co_texts": ["m\u00e9dico-sociaux"] }
+        ]
+      },
+      {
+        "concept_id": 140159102726304,
+        "label": "situations",
+        "lrs": [{ "label": "situations", "co_texts": ["situations"] }]
+      },
+      {
+        "concept_id": 140158416285856,
+        "label": "crises",
+        "lrs": [{ "label": "crises", "co_texts": ["crises"] }]
+      },
+      {
+        "concept_id": 140158416279712,
+        "label": "conseils",
+        "lrs": [{ "label": "conseils", "co_texts": ["conseils"] }]
+      },
+      {
+        "concept_id": 140158416277792,
+        "label": "rendez-vous",
+        "lrs": [{ "label": "rendez-vous", "co_texts": ["rendez-vous"] }]
+      },
+      {
+        "concept_id": 140158416283984,
+        "label": "services municipaux",
+        "lrs": [
+          { "label": "services municipaux", "co_texts": ["services municipaux"] }
+        ]
+      },
+      {
+        "concept_id": 140158416275872,
+        "label": "handicap psychique",
+        "lrs": [
+          { "label": "handicap psychique", "co_texts": ["handicap psychique"] }
+        ]
+      },
+      {
+        "concept_id": 140158416282064,
+        "label": "projet de vie",
+        "lrs": [{ "label": "projet de vie", "co_texts": ["projet de vie"] }]
+      },
+      {
+        "concept_id": 140158416284176,
+        "label": "soutien",
+        "lrs": [{ "label": "soutien", "co_texts": ["soutien"] }]
+      },
+      {
+        "concept_id": 140158416280144,
+        "label": "projets d\u2019inclusion",
+        "lrs": [
+          {
+            "label": "projets d\u2019inclusion",
+            "co_texts": ["projets d\u2019inclusion"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416278224,
+        "label": "conseil local de sant\u00e9 mentale",
+        "lrs": [
+          {
+            "label": "conseil local de sant\u00e9 mentale",
+            "co_texts": ["conseil local de sant\u00e9 mentale"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140159102726880,
+        "label": "troubles de voisinage",
+        "lrs": [
+          {
+            "label": "troubles de voisinage",
+            "co_texts": ["troubles de voisinage"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416284416,
+        "label": "d\u00e9marches d\u2019ouverture de droits",
+        "lrs": [
+          {
+            "label": "d\u00e9marches d\u2019ouverture de droits",
+            "co_texts": ["d\u00e9marches d\u2019ouverture de droits"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416286480,
+        "label": "animation",
+        "lrs": [{ "label": "animation", "co_texts": ["animation"] }]
+      },
+      {
+        "concept_id": 140158416280336,
+        "label": "personnes en situation de handicap",
+        "lrs": [
+          {
+            "label": "personnes en situation de handicap",
+            "co_texts": ["personnes en situation de handicap"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416276304,
+        "label": "orientation",
+        "lrs": [{ "label": "orientation", "co_texts": ["orientation"] }]
+      },
+      {
+        "concept_id": 140158416278416,
+        "label": "courriel",
+        "lrs": [{ "label": "courriel", "co_texts": ["courriel"] }]
+      },
+      {
+        "concept_id": 140158416284608,
+        "label": "primo-\u00e9valuation",
+        "lrs": [
+          {
+            "label": "primo-\u00e9valuation",
+            "co_texts": ["primo-\u00e9valuation"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416280576,
+        "label": "dossiers mdph",
+        "lrs": [{ "label": "dossiers mdph", "co_texts": ["dossiers mdph"] }]
+      },
+      {
+        "concept_id": 140158416276496,
+        "label": "sant\u00e9 mentale",
+        "lrs": [
+          { "label": "sant\u00e9 mentale", "co_texts": ["sant\u00e9 mentale"] }
+        ]
+      },
+      {
+        "concept_id": 140158416286768,
+        "label": "ccpa",
+        "lrs": [{ "label": "ccpa", "co_texts": ["ccpa"] }]
+      },
+      {
+        "concept_id": 140158416278656,
+        "label": "professionnels de sant\u00e9",
+        "lrs": [
+          {
+            "label": "professionnels de sant\u00e9",
+            "co_texts": ["professionnels de sant\u00e9"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416280768,
+        "label": "information",
+        "lrs": [{ "label": "information", "co_texts": ["information"] }]
+      },
+      {
+        "concept_id": 140158416282880,
+        "label": "difficult\u00e9s sociales",
+        "lrs": [
+          {
+            "label": "difficult\u00e9s sociales",
+            "co_texts": ["difficult\u00e9s sociales"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416276736,
+        "label": "urgences",
+        "lrs": [{ "label": "urgences", "co_texts": ["urgences"] }]
+      },
+      {
+        "concept_id": 140159227493680,
+        "label": "aidants",
+        "lrs": [{ "label": "aidants", "co_texts": ["aidants"] }]
+      },
+      {
+        "concept_id": 140158416278848,
+        "label": "coordination",
+        "lrs": [{ "label": "coordination", "co_texts": ["coordination"] }]
+      },
+      {
+        "concept_id": 140158416287104,
+        "label": "usagers",
+        "lrs": [{ "label": "usagers", "co_texts": ["usagers"] }]
+      },
+      {
+        "concept_id": 140158416280960,
+        "label": "accompagnement social",
+        "lrs": [
+          {
+            "label": "accompagnement social",
+            "co_texts": ["accompagnement social"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416281008,
+        "label": "accueil",
+        "lrs": [{ "label": "accueil", "co_texts": ["accueil"] }]
+      },
+      {
+        "concept_id": 140158416276928,
+        "label": "cartes mobilit\u00e9s inclusion",
+        "lrs": [
+          {
+            "label": "cartes mobilit\u00e9s inclusion",
+            "co_texts": ["cartes mobilit\u00e9s inclusion"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416283120,
+        "label": "services du ccas",
+        "lrs": [{ "label": "services du ccas", "co_texts": ["services du ccas"] }]
+      },
+      {
+        "concept_id": 140158416285184,
+        "label": "t\u00e9l",
+        "lrs": [{ "label": "t\u00e9l", "co_texts": ["t\u00e9l"] }]
+      },
+      {
+        "concept_id": 140158416279040,
+        "label": "associations",
+        "lrs": [{ "label": "associations", "co_texts": ["associations"] }]
+      },
+      {
+        "concept_id": 140158416279088,
+        "label": "instruction",
+        "lrs": [{ "label": "instruction", "co_texts": ["instruction"] }]
+      },
+      {
+        "concept_id": 140158416281200,
+        "label": "aide",
+        "lrs": [{ "label": "aide", "co_texts": ["aide"] }]
+      },
+      {
+        "concept_id": 140158416277120,
+        "label": "mission handicap",
+        "lrs": [{ "label": "mission handicap", "co_texts": ["mission handicap"] }]
+      },
+      {
+        "concept_id": 140158416277168,
+        "label": "cartes am\u00e9thyste",
+        "lrs": [
+          {
+            "label": "cartes am\u00e9thyste",
+            "co_texts": ["cartes am\u00e9thyste"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416285424,
+        "label": "secteur psychiatrique",
+        "lrs": [
+          {
+            "label": "secteur psychiatrique",
+            "co_texts": ["secteur psychiatrique"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416279280,
+        "label": "demandes",
+        "lrs": [{ "label": "demandes", "co_texts": ["demandes"] }]
+      },
+      {
+        "concept_id": 140158416283408,
+        "label": "clsm",
+        "lrs": [{ "label": "clsm", "co_texts": ["clsm"] }]
+      },
+      {
+        "concept_id": 140158416277360,
+        "label": "suivi",
+        "lrs": [{ "label": "suivi", "co_texts": ["suivi"] }]
+      },
+      {
+        "concept_id": 140159102726016,
+        "label": "commission communale",
+        "lrs": [
+          {
+            "label": "commission communale",
+            "co_texts": ["commission communale"]
+          }
+        ]
+      },
+      {
+        "concept_id": 140158416281488,
+        "label": "travailleur social",
+        "lrs": [
+          { "label": "travailleur social", "co_texts": ["travailleur social"] }
+        ]
+      },
+      {
+        "concept_id": 140158416283552,
+        "label": "maladies psychiques",
+        "lrs": [
+          { "label": "maladies psychiques", "co_texts": ["maladies psychiques"] }
+        ]
+      },
+      {
+        "concept_id": 140158416285616,
+        "label": "accessibilit\u00e9",
+        "lrs": [
+          { "label": "accessibilit\u00e9", "co_texts": ["accessibilit\u00e9"] }
+        ]
+      }
+    ],
+    "relations": [
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "soutien",
+        "lrs": [{ "label": "soutien", "co_texts": ["soutien"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "instruction",
+        "lrs": [{ "label": "instruction", "co_texts": ["instruction"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "s\u2019agit",
+        "lrs": [{ "label": "s\u2019agit", "co_texts": ["s\u2019agit"] }]
+      },
+      {
+        "source_concept_id": 140158416281488,
+        "destination_concept_id": 140158416280336,
+        "label": "suivi",
+        "lrs": [{ "label": "suivi", "co_texts": ["suivi"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "lien",
+        "lrs": [{ "label": "lien", "co_texts": ["lien"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "information",
+        "lrs": [{ "label": "information", "co_texts": ["information"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "conseils",
+        "lrs": [{ "label": "conseils", "co_texts": ["conseils"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "animation",
+        "lrs": [{ "label": "animation", "co_texts": ["animation"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "confront\u00e9s",
+        "lrs": [{ "label": "confront\u00e9s", "co_texts": ["confront\u00e9s"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "accueil",
+        "lrs": [{ "label": "accueil", "co_texts": ["accueil"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "orientation",
+        "lrs": [{ "label": "orientation", "co_texts": ["orientation"] }]
+      },
+      {
+        "source_concept_id": 140158416280144,
+        "destination_concept_id": 140158416285616,
+        "label": "animation",
+        "lrs": [{ "label": "animation", "co_texts": ["animation"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "repr\u00e9sente",
+        "lrs": [{ "label": "repr\u00e9sente", "co_texts": ["repr\u00e9sente"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "demander",
+        "lrs": [{ "label": "demander", "co_texts": ["demander"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "anticiper",
+        "lrs": [{ "label": "anticiper", "co_texts": ["anticiper"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "entre",
+        "lrs": [{ "label": "entre", "co_texts": ["entre"] }]
+      },
+      {
+        "source_concept_id": 140158416277792,
+        "destination_concept_id": 140158416280336,
+        "label": "suivi",
+        "lrs": [{ "label": "suivi", "co_texts": ["suivi"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "prendre en charge",
+        "lrs": [
+          { "label": "prendre en charge", "co_texts": ["prendre en charge"] }
+        ]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "favoriser",
+        "lrs": [{ "label": "favoriser", "co_texts": ["favoriser"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "est dot\u00e9e",
+        "lrs": [{ "label": "est dot\u00e9e", "co_texts": ["est dot\u00e9e"] }]
+      },
+      {
+        "source_concept_id": 140158416281488,
+        "destination_concept_id": 140158416277360,
+        "label": "assure",
+        "lrs": [{ "label": "assure", "co_texts": ["assure"] }]
+      },
+      {
+        "source_concept_id": 140158416280144,
+        "destination_concept_id": 140159102726016,
+        "label": "animation",
+        "lrs": [{ "label": "animation", "co_texts": ["animation"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "primo-\u00e9valuation",
+        "lrs": [
+          {
+            "label": "primo-\u00e9valuation",
+            "co_texts": ["primo-\u00e9valuation"]
+          }
+        ]
+      },
+      {
+        "source_concept_id": 140158416280960,
+        "destination_concept_id": 140158416277360,
+        "label": "assure",
+        "lrs": [{ "label": "assure", "co_texts": ["assure"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "rendez-vous",
+        "lrs": [{ "label": "rendez-vous", "co_texts": ["rendez-vous"] }]
+      },
+      {
+        "source_concept_id": 140158416280144,
+        "destination_concept_id": 140158416286480,
+        "label": "inclusion",
+        "lrs": [{ "label": "inclusion", "co_texts": ["inclusion"] }]
+      },
+      {
+        "source_concept_id": 140158416280144,
+        "destination_concept_id": 140159102726016,
+        "label": "inclusion",
+        "lrs": [{ "label": "inclusion", "co_texts": ["inclusion"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "aide",
+        "lrs": [{ "label": "aide", "co_texts": ["aide"] }]
+      },
+      {
+        "source_concept_id": 140158416281488,
+        "destination_concept_id": 140158416277792,
+        "label": "assure",
+        "lrs": [{ "label": "assure", "co_texts": ["assure"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "\u00e9laboration",
+        "lrs": [{ "label": "\u00e9laboration", "co_texts": ["\u00e9laboration"] }]
+      },
+      {
+        "source_concept_id": 140158416280960,
+        "destination_concept_id": 140158416277792,
+        "label": "assure",
+        "lrs": [{ "label": "assure", "co_texts": ["assure"] }]
+      },
+      {
+        "source_concept_id": null,
+        "destination_concept_id": null,
+        "label": "s\u2019entrecroisent",
+        "lrs": [
+          {
+            "label": "s\u2019entrecroisent",
+            "co_texts": ["s\u2019entrecroisent"]
+          }
+        ]
+      }
+    ],
+    "metarelations": [
+      {
+        "source_concept_id": 140158416286768,
+        "destination_concept_id": 140158416280144,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416283120,
+        "destination_concept_id": 140158416285184,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416287104,
+        "destination_concept_id": 140158416280336,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416278848,
+        "destination_concept_id": 140158416286480,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416286480,
+        "destination_concept_id": 140158416286768,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416279568,
+        "destination_concept_id": 140158416278848,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416283552,
+        "destination_concept_id": 140158416276496,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416284176,
+        "destination_concept_id": 140158416276304,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416279088,
+        "destination_concept_id": 140158416276928,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140159102726880,
+        "destination_concept_id": 140158416283552,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416284608,
+        "destination_concept_id": 140158416279280,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416276496,
+        "destination_concept_id": 140158416278224,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416279280,
+        "destination_concept_id": 140158416280576,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416280768,
+        "destination_concept_id": 140158416279712,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416276304,
+        "destination_concept_id": 140158416280768,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416282064,
+        "destination_concept_id": 140158416284176,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416278224,
+        "destination_concept_id": 140158416279568,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416280144,
+        "destination_concept_id": 140158416282064,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416279712,
+        "destination_concept_id": 140158416284608,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416280576,
+        "destination_concept_id": 140158416279088,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416276928,
+        "destination_concept_id": 140158416277168,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416285184,
+        "destination_concept_id": 140158416278416,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416285712,
+        "destination_concept_id": 140158416283984,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416282880,
+        "destination_concept_id": 140159102726880,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416276736,
+        "destination_concept_id": 140158416282880,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416285856,
+        "destination_concept_id": 140158416276736,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416283984,
+        "destination_concept_id": 140158416277648,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416280336,
+        "destination_concept_id": 140159102726304,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140159102726304,
+        "destination_concept_id": 140158416285856,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416283984,
+        "destination_concept_id": 140158416281632,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416277120,
+        "destination_concept_id": 140158416280960,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416285712,
+        "destination_concept_id": 140158416277120,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416281488,
+        "destination_concept_id": 140158416287104,
+        "label": "is_generalised_by",
+        "lrs": []
+      },
+      {
+        "source_concept_id": 140158416280960,
+        "destination_concept_id": 140158416281488,
+        "label": "is_generalised_by",
+        "lrs": []
+      }
+    ],
+    "rdf_graph": null
+}
+  
