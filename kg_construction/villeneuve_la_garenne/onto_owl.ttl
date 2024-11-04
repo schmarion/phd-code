@@ -1,0 +1,1486 @@
+@prefix ns1: <https://github.com/schmarion/phd-code/o/example#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://github.com/schmarion/phd-code/o/example#%C3%A9change> a owl:ObjectProperty ;
+    rdfs:label "échange" .
+
+<https://github.com/schmarion/phd-code/o/example#%C3%A9panouissement> a owl:ObjectProperty ;
+    rdfs:label "épanouissement" .
+
+<https://github.com/schmarion/phd-code/o/example#%C5%93uvre> a owl:ObjectProperty ;
+    rdfs:label "œuvre" .
+
+ns1:_%C3%A9change a owl:NamedIndividual,
+        <https://github.com/schmarion/phd-code/o/example#%C3%89changes> ;
+    rdfs:label "échange" ;
+    ns1:communication ns1:_parents .
+
+ns1:_%C3%A9changes a owl:NamedIndividual,
+        <https://github.com/schmarion/phd-code/o/example#%C3%89changes> ;
+    rdfs:label "échanges" ;
+    ns1:communication ns1:_parents .
+
+ns1:_%C3%A9ducationSportiveMunicipale a owl:NamedIndividual,
+        <https://github.com/schmarion/phd-code/o/example#%C3%89ducationSportiveMunicipale> ;
+    rdfs:label "éducation sportive municipale" .
+
+ns1:_%C3%A9panouissement a owl:NamedIndividual,
+        <https://github.com/schmarion/phd-code/o/example#%C3%89panouissement> ;
+    rdfs:label "épanouissement" .
+
+ns1:_%C3%A9v%C3%A9nementsDeSensibilisation a owl:NamedIndividual,
+        <https://github.com/schmarion/phd-code/o/example#%C3%89v%C3%A9nementsDeSensibilisation> ;
+    rdfs:label "événements de sensibilisation" .
+
+ns1:_%C3%AEle-de-france a owl:NamedIndividual,
+        <https://github.com/schmarion/phd-code/o/example#%C3%8Ele-de-france> ;
+    rdfs:label "île-de-france" .
+
+ns1:_accessibilit%C3%A9 a owl:NamedIndividual,
+        ns1:Accessibilit%C3%A9 ;
+    rdfs:label "accessibilité" .
+
+ns1:_accueil a owl:NamedIndividual,
+        ns1:Accueil ;
+    rdfs:label "accueil" .
+
+ns1:_actions a owl:NamedIndividual,
+        ns1:Actions ;
+    rdfs:label "actions" .
+
+ns1:_activit%C3%A9Physique a owl:NamedIndividual,
+        ns1:Activit%C3%A9Physique ;
+    rdfs:label "activité physique" .
+
+ns1:_activit%C3%A9Sportive a owl:NamedIndividual,
+        ns1:Activit%C3%A9Sportive ;
+    rdfs:label "activité sportive" .
+
+ns1:_activit%C3%A9s a owl:NamedIndividual,
+        ns1:Activit%C3%A9s ;
+    rdfs:label "activités" ;
+    ns1:par ns1:_association,
+        ns1:_associations ;
+    ns1:propos%C3%A9es ns1:_association,
+        ns1:_associations .
+
+ns1:_activit%C3%A9sManuelles a owl:NamedIndividual,
+        ns1:Activit%C3%A9sManuelles ;
+    rdfs:label "activités manuelles" .
+
+ns1:_adulte a owl:NamedIndividual,
+        ns1:Adulte ;
+    rdfs:label "adulte" .
+
+ns1:_adultesEnSituationDeHandicap a owl:NamedIndividual,
+        ns1:AdultesEnSituationDeHandicap ;
+    rdfs:label "adultes en situation de handicap" .
+
+ns1:_aidants a owl:NamedIndividual,
+        ns1:Aidants ;
+    rdfs:label "aidants" .
+
+ns1:_aides a owl:NamedIndividual,
+        ns1:Aides ;
+    rdfs:label "aides" .
+
+ns1:_artTh%C3%A9rapeute a owl:NamedIndividual,
+        ns1:ArtTh%C3%A9rapeute ;
+    rdfs:label "art thérapeute" .
+
+ns1:_associationC%C5%93urDeLionne a owl:NamedIndividual,
+        ns1:AssociationC%C5%93urDeLionne ;
+    rdfs:label "association cœur de lionne" .
+
+ns1:_associationJoieDeVivre a owl:NamedIndividual,
+        ns1:AssociationJoieDeVivre ;
+    rdfs:label "association joie de vivre" .
+
+ns1:_ateliers a owl:NamedIndividual,
+        ns1:Ateliers ;
+    rdfs:label "ateliers" .
+
+ns1:_autonomie a owl:NamedIndividual,
+        ns1:Autonomie ;
+    rdfs:label "autonomie" .
+
+ns1:_banlieueParisienne a owl:NamedIndividual,
+        ns1:BanlieueParisienne ;
+    rdfs:label "banlieue parisienne" .
+
+ns1:_besoinsSp%C3%A9cifiques a owl:NamedIndividual,
+        ns1:BesoinsSp%C3%A9cifiques ;
+    rdfs:label "besoins spécifiques" .
+
+ns1:_bien-%C3%AAtre a owl:NamedIndividual,
+        ns1:Bien-%C3%AAtre ;
+    rdfs:label "bien-être" .
+
+ns1:_bien-%C3%AAtreG%C3%A9n%C3%A9ral a owl:NamedIndividual,
+        ns1:Bien-%C3%AAtreG%C3%A9n%C3%A9ral ;
+    rdfs:label "bien-être général" .
+
+ns1:_bilans a owl:NamedIndividual,
+        ns1:Bilans ;
+    rdfs:label "bilans" .
+
+ns1:_bowling a owl:NamedIndividual,
+        ns1:Bowling ;
+    rdfs:label "bowling" .
+
+ns1:_cadre a owl:NamedIndividual,
+        ns1:Cadre ;
+    rdfs:label "cadre" .
+
+ns1:_campagnes a owl:NamedIndividual,
+        ns1:Campagnes ;
+    rdfs:label "campagnes" .
+
+ns1:_carteAm%C3%A9thyste a owl:NamedIndividual,
+        ns1:CarteAm%C3%A9thyste ;
+    rdfs:label "carte améthyste" .
+
+ns1:_carteInvalidit%C3%A9 a owl:NamedIndividual,
+        ns1:CarteInvalidit%C3%A9 ;
+    rdfs:label "carte invalidité" .
+
+ns1:_ccas a owl:NamedIndividual,
+        ns1:Ccas ;
+    rdfs:label "ccas" .
+
+ns1:_centreCommunalD%27actionSociale a owl:NamedIndividual,
+        ns1:CentreCommunalD%27actionSociale ;
+    rdfs:label "centre communal d'action sociale" ;
+    ns1:action ns1:_avenueDeVerdun ;
+    ns1:sociale ns1:_avenueDeVerdun .
+
+ns1:_centreCommunalD%E2%80%99actionSociale a owl:NamedIndividual,
+        ns1:CentreCommunalD%27actionSociale ;
+    rdfs:label "centre communal d’action sociale" ;
+    ns1:action ns1:_avenueDeVerdun ;
+    ns1:sociale ns1:_avenueDeVerdun .
+
+ns1:_charteHandicap a owl:NamedIndividual,
+        ns1:CharteHandicap ;
+    rdfs:label "charte handicap" .
+
+ns1:_cin%C3%A9ma a owl:NamedIndividual,
+        ns1:Cin%C3%A9ma ;
+    rdfs:label "cinéma" .
+
+ns1:_communaut%C3%A9 a owl:NamedIndividual,
+        ns1:Communaut%C3%A9 ;
+    rdfs:label "communauté" .
+
+ns1:_communication a owl:NamedIndividual,
+        ns1:Communication ;
+    rdfs:label "communication" .
+
+ns1:_conditionsD%E2%80%99adh%C3%A9sion a owl:NamedIndividual,
+        ns1:ConditionsD%E2%80%99adh%C3%A9sion ;
+    rdfs:label "conditions d’adhésion" .
+
+ns1:_constitutionDesDossiersMdph a owl:NamedIndividual,
+        ns1:DossierMdph ;
+    rdfs:label "constitution des dossiers mdph" .
+
+ns1:_coursDeGymnastique a owl:NamedIndividual,
+        ns1:CoursDeGymnastique ;
+    rdfs:label "cours de gymnastique" .
+
+ns1:_coursDeSports a owl:NamedIndividual,
+        ns1:CoursDeSports ;
+    rdfs:label "cours de sports" .
+
+ns1:_d%C3%A9cision a owl:NamedIndividual,
+        ns1:D%C3%A9cision ;
+    rdfs:label "décision" .
+
+ns1:_d%C3%A9marches a owl:NamedIndividual,
+        ns1:D%C3%A9marches ;
+    rdfs:label "démarches" .
+
+ns1:_d%C3%A9veloppementPersonnel a owl:NamedIndividual,
+        ns1:D%C3%A9veloppementPersonnel ;
+    rdfs:label "développement personnel" .
+
+ns1:_demandeDePrestationDeCompensationDuHandicap a owl:NamedIndividual,
+        ns1:DemandeDePrestationDeCompensationDuHandicap ;
+    rdfs:label "demande de prestation de compensation du handicap" .
+
+ns1:_dispositifDeT%C3%A9l%C3%A9assistance a owl:NamedIndividual,
+        ns1:DispositifDeT%C3%A9l%C3%A9assistance ;
+    rdfs:label "dispositif de téléassistance" .
+
+ns1:_diversit%C3%A9Sociale a owl:NamedIndividual,
+        ns1:Diversit%C3%A9Sociale ;
+    rdfs:label "diversité sociale" .
+
+ns1:_dossierMdph a owl:NamedIndividual,
+        ns1:DossierMdph ;
+    rdfs:label "dossier mdph" .
+
+ns1:_droitsFondamentaux a owl:NamedIndividual,
+        ns1:DroitsFondamentaux ;
+    rdfs:label "droits fondamentaux" .
+
+ns1:_emploi a owl:NamedIndividual,
+        ns1:Emploi ;
+    rdfs:label "emploi" .
+
+ns1:_enseignanteP%C3%A9dagogique a owl:NamedIndividual,
+        ns1:EnseignanteP%C3%A9dagogique ;
+    rdfs:label "enseignante pédagogique" .
+
+ns1:_enseignanteSp%C3%A9cialis%C3%A9e a owl:NamedIndividual,
+        ns1:EnseignanteSp%C3%A9cialis%C3%A9e ;
+    rdfs:label "enseignante spécialisée" .
+
+ns1:_espacePublic a owl:NamedIndividual,
+        ns1:EspacePublic ;
+    rdfs:label "espace public" .
+
+ns1:_familles a owl:NamedIndividual,
+        ns1:Familles ;
+    rdfs:label "familles" .
+
+ns1:_fonctionnementD%C3%A9mocratique a owl:NamedIndividual,
+        ns1:FonctionnementD%C3%A9mocratique ;
+    rdfs:label "fonctionnement démocratique" .
+
+ns1:_formation a owl:NamedIndividual,
+        ns1:Formation ;
+    rdfs:label "formation" .
+
+ns1:_formationDesParents a owl:NamedIndividual,
+        ns1:FormationDesParents ;
+    rdfs:label "formation des parents" .
+
+ns1:_fratrie a owl:NamedIndividual,
+        ns1:Fratrie ;
+    rdfs:label "fratrie" .
+
+ns1:_gestion a owl:NamedIndividual,
+        ns1:Gestion ;
+    rdfs:label "gestion" .
+
+ns1:_groupesDePersonnesHandicap%C3%A9es a owl:NamedIndividual,
+        ns1:GroupesDePersonnesHandicap%C3%A9es ;
+    rdfs:label "groupes de personnes handicapées" .
+
+ns1:_gymAdapt%C3%A9e a owl:NamedIndividual,
+        ns1:GymAdapt%C3%A9e ;
+    rdfs:label "gym adaptée" .
+
+ns1:_handicap a owl:NamedIndividual,
+        ns1:PersonnesEnSituationDeHandicap ;
+    rdfs:label "handicap" ;
+    ns1:action ns1:_avenueDeVerdun ;
+    ns1:est ns1:_structureD%E2%80%99information ;
+    ns1:offrant ns1:_services,
+        ns1:_servicesAdapt%C3%A9s ;
+    ns1:proposent ns1:_services,
+        ns1:_servicesDeSoutien,
+        ns1:_soutien,
+        ns1:_soutienComplet ;
+    ns1:soutien ns1:_accompagnement,
+        ns1:_accompagnementSocial,
+        ns1:_serviceD%E2%80%99accompagnement ;
+    ns1:veillant ns1:_d%C3%A9veloppement,
+        ns1:_d%C3%A9veloppementPsychomoteur .
+
+ns1:_hauts-de-seine a owl:NamedIndividual,
+        ns1:Hauts-de-seine ;
+    rdfs:label "hauts-de-seine" .
+
+ns1:_implicationActive a owl:NamedIndividual,
+        ns1:ImplicationActive ;
+    rdfs:label "implication active" .
+
+ns1:_inclusion a owl:NamedIndividual,
+        ns1:InclusionSociale ;
+    rdfs:label "inclusion" .
+
+ns1:_inclusionSociale a owl:NamedIndividual,
+        ns1:InclusionSociale ;
+    rdfs:label "inclusion sociale" .
+
+ns1:_individus a owl:NamedIndividual,
+        ns1:Individus ;
+    rdfs:label "individus" .
+
+ns1:_informationsN%C3%A9cessaires a owl:NamedIndividual,
+        ns1:InformationsN%C3%A9cessaires ;
+    rdfs:label "informations nécessaires" .
+
+ns1:_insertionProfessionnelle a owl:NamedIndividual,
+        ns1:InsertionProfessionnelle ;
+    rdfs:label "insertion professionnelle" .
+
+ns1:_jardinD%E2%80%99acclimatation a owl:NamedIndividual,
+        ns1:JardinD%E2%80%99acclimatation ;
+    rdfs:label "jardin d’acclimatation" .
+
+ns1:_jeunesHandicap%C3%A9sMentaux a owl:NamedIndividual,
+        ns1:JeunesHandicap%C3%A9sMentaux ;
+    rdfs:label "jeunes handicapés mentaux" .
+
+ns1:_jeuxExt%C3%A9rieurs a owl:NamedIndividual,
+        ns1:JeuxExt%C3%A9rieurs ;
+    rdfs:label "jeux extérieurs" .
+
+ns1:_lien a owl:NamedIndividual,
+        ns1:Lien ;
+    rdfs:label "lien" .
+
+ns1:_lienSocial a owl:NamedIndividual,
+        ns1:LienSocial ;
+    rdfs:label "lien social" .
+
+ns1:_logements a owl:NamedIndividual,
+        ns1:Logements ;
+    rdfs:label "logements" .
+
+ns1:_missionHandicap a owl:NamedIndividual,
+        ns1:MissionHandicap ;
+    rdfs:label "mission handicap" .
+
+ns1:_missionHandicapSolidarit%C3%A9 a owl:NamedIndividual,
+        ns1:MissionHandicap ;
+    rdfs:label "mission handicap solidarité" .
+
+ns1:_montageFinancier a owl:NamedIndividual,
+        ns1:MontageFinancier ;
+    rdfs:label "montage financier" .
+
+ns1:_motricit%C3%A9Fine a owl:NamedIndividual,
+        ns1:Motricit%C3%A9Fine ;
+    rdfs:label "motricité fine" .
+
+ns1:_motricit%C3%A9Globale a owl:NamedIndividual,
+        ns1:Motricit%C3%A9Globale ;
+    rdfs:label "motricité globale" .
+
+ns1:_mus%C3%A9es a owl:NamedIndividual,
+        ns1:Mus%C3%A9es ;
+    rdfs:label "musées" .
+
+ns1:_niveauDeRevenu a owl:NamedIndividual,
+        ns1:NiveauDeRevenu ;
+    rdfs:label "niveau de revenu" .
+
+ns1:_objectifs a owl:NamedIndividual,
+        ns1:Objectifs ;
+    rdfs:label "objectifs" .
+
+ns1:_opportunit%C3%A9s a owl:NamedIndividual,
+        ns1:Opportunit%C3%A9s ;
+    rdfs:label "opportunités" .
+
+ns1:_optile a owl:NamedIndividual,
+        ns1:Optile ;
+    rdfs:label "optile" .
+
+ns1:_organismes a owl:NamedIndividual,
+        ns1:Organismes ;
+    rdfs:label "organismes" .
+
+ns1:_organismesPartenaires a owl:NamedIndividual,
+        ns1:OrganismesPartenaires ;
+    rdfs:label "organismes partenaires" .
+
+ns1:_ost%C3%A9opathe a owl:NamedIndividual,
+        ns1:Ost%C3%A9opathe ;
+    rdfs:label "ostéopathe" .
+
+ns1:_p%C3%A9riode a owl:NamedIndividual,
+        ns1:P%C3%A9riode ;
+    rdfs:label "période" .
+
+ns1:_p%C3%B4leHandicap a owl:NamedIndividual,
+        ns1:P%C3%B4leHandicap ;
+    rdfs:label "pôle handicap" ;
+    ns1:est ns1:_structureD%E2%80%99information ;
+    ns1:proposent ns1:_services,
+        ns1:_servicesDeSoutien,
+        ns1:_soutien,
+        ns1:_soutienComplet .
+
+ns1:_participationCitoyenne a owl:NamedIndividual,
+        ns1:ParticipationCitoyenne ;
+    rdfs:label "participation citoyenne" .
+
+ns1:_personnesD%C3%A9pendantes a owl:NamedIndividual,
+        ns1:PersonnesD%C3%A9pendantes ;
+    rdfs:label "personnes dépendantes" .
+
+ns1:_personnesEnSituationDeHandicap a owl:NamedIndividual,
+        ns1:PersonnesEnSituationDeHandicap ;
+    rdfs:label "personnes en situation de handicap" ;
+    ns1:action ns1:_avenueDeVerdun ;
+    ns1:est ns1:_structureD%E2%80%99information ;
+    ns1:offrant ns1:_services,
+        ns1:_servicesAdapt%C3%A9s ;
+    ns1:proposent ns1:_services,
+        ns1:_servicesDeSoutien,
+        ns1:_soutien,
+        ns1:_soutienComplet ;
+    ns1:soutien ns1:_accompagnement,
+        ns1:_accompagnementSocial,
+        ns1:_serviceD%E2%80%99accompagnement ;
+    ns1:veillant ns1:_d%C3%A9veloppement,
+        ns1:_d%C3%A9veloppementPsychomoteur .
+
+ns1:_personnesHandicap%C3%A9es a owl:NamedIndividual,
+        ns1:PersonnesEnSituationDeHandicap ;
+    rdfs:label "personnes handicapées" ;
+    ns1:action ns1:_avenueDeVerdun ;
+    ns1:est ns1:_structureD%E2%80%99information ;
+    ns1:offrant ns1:_services,
+        ns1:_servicesAdapt%C3%A9s ;
+    ns1:proposent ns1:_services,
+        ns1:_servicesDeSoutien,
+        ns1:_soutien,
+        ns1:_soutienComplet ;
+    ns1:soutien ns1:_accompagnement,
+        ns1:_accompagnementSocial,
+        ns1:_serviceD%E2%80%99accompagnement ;
+    ns1:veillant ns1:_d%C3%A9veloppement,
+        ns1:_d%C3%A9veloppementPsychomoteur .
+
+ns1:_personnesPr%C3%A9sentantUnTauxD%E2%80%99invalidit%C3%A9 a owl:NamedIndividual,
+        ns1:PersonnesPr%C3%A9sentantUnTauxD%E2%80%99invalidit%C3%A9 ;
+    rdfs:label "personnes présentant un taux d’invalidité" .
+
+ns1:_politiqueTarifaire a owl:NamedIndividual,
+        ns1:PolitiqueTarifaire ;
+    rdfs:label "politique tarifaire" .
+
+ns1:_populationLocale a owl:NamedIndividual,
+        ns1:PopulationLocale ;
+    rdfs:label "population locale" .
+
+ns1:_pr%C3%A9senceM%C3%A9dicale a owl:NamedIndividual,
+        ns1:Pr%C3%A9senceM%C3%A9dicale ;
+    rdfs:label "présence médicale" .
+
+ns1:_priseEnCharge a owl:NamedIndividual,
+        ns1:PriseEnCharge ;
+    rdfs:label "prise en charge" .
+
+ns1:_probl%C3%A9matiquesDuHandicap a owl:NamedIndividual,
+        ns1:Probl%C3%A9matiquesDuHandicap ;
+    rdfs:label "problématiques du handicap" .
+
+ns1:_proc%C3%A9dure a owl:NamedIndividual,
+        ns1:Proc%C3%A9dure ;
+    rdfs:label "procédure" .
+
+ns1:_professionnels a owl:NamedIndividual,
+        ns1:Professionnels ;
+    rdfs:label "professionnels" .
+
+ns1:_psychologue a owl:NamedIndividual,
+        ns1:Psychologue ;
+    rdfs:label "psychologue" .
+
+ns1:_psychologueComportementaliste a owl:NamedIndividual,
+        ns1:PsychologueComportementaliste ;
+    rdfs:label "psychologue comportementaliste" .
+
+ns1:_public a owl:NamedIndividual,
+        ns1:Public ;
+    rdfs:label "public" .
+
+ns1:_qualit%C3%A9DeVie a owl:NamedIndividual,
+        ns1:Qualit%C3%A9DeVie ;
+    rdfs:label "qualité de vie" .
+
+ns1:_r%C3%A9duction a owl:NamedIndividual,
+        ns1:R%C3%A9duction ;
+    rdfs:label "réduction" .
+
+ns1:_r%C3%A9seauRatp a owl:NamedIndividual,
+        ns1:R%C3%A9seauRatp ;
+    rdfs:label "réseau ratp" .
+
+ns1:_r%C3%A9union a owl:NamedIndividual,
+        ns1:R%C3%A9union ;
+    rdfs:label "réunion" .
+
+ns1:_rencontres a owl:NamedIndividual,
+        ns1:Rencontres ;
+    rdfs:label "rencontres" .
+
+ns1:_repos a owl:NamedIndividual,
+        ns1:Repos ;
+    rdfs:label "repos" .
+
+ns1:_routineQuotidienne a owl:NamedIndividual,
+        ns1:RoutineQuotidienne ;
+    rdfs:label "routine quotidienne" .
+
+ns1:_s%C3%A9anceDePsychomotricit%C3%A9 a owl:NamedIndividual,
+        ns1:S%C3%A9anceDePsychomotricit%C3%A9 ;
+    rdfs:label "séance de psychomotricité" .
+
+ns1:_s%C3%A9ances a owl:NamedIndividual,
+        ns1:S%C3%A9ances ;
+    rdfs:label "séances" .
+
+ns1:_s%C3%A9joursFamiliaux a owl:NamedIndividual,
+        ns1:S%C3%A9joursFamiliaux ;
+    rdfs:label "séjours familiaux" .
+
+ns1:_seniors a owl:NamedIndividual,
+        ns1:Seniors ;
+    rdfs:label "seniors" .
+
+ns1:_sensibilisation a owl:NamedIndividual,
+        ns1:Sensibilisation ;
+    rdfs:label "sensibilisation" .
+
+ns1:_serviceDesSports a owl:NamedIndividual,
+        ns1:ServiceDesSports ;
+    rdfs:label "service des sports" .
+
+ns1:_situationDeHandicap a owl:NamedIndividual,
+        ns1:PersonnesEnSituationDeHandicap ;
+    rdfs:label "situation de handicap" ;
+    ns1:action ns1:_avenueDeVerdun ;
+    ns1:est ns1:_structureD%E2%80%99information ;
+    ns1:offrant ns1:_services,
+        ns1:_servicesAdapt%C3%A9s ;
+    ns1:proposent ns1:_services,
+        ns1:_servicesDeSoutien,
+        ns1:_soutien,
+        ns1:_soutienComplet ;
+    ns1:soutien ns1:_accompagnement,
+        ns1:_accompagnementSocial,
+        ns1:_serviceD%E2%80%99accompagnement ;
+    ns1:veillant ns1:_d%C3%A9veloppement,
+        ns1:_d%C3%A9veloppementPsychomoteur .
+
+ns1:_sncf a owl:NamedIndividual,
+        ns1:Sncf ;
+    rdfs:label "sncf" .
+
+ns1:_sorties a owl:NamedIndividual,
+        ns1:Sorties ;
+    rdfs:label "sorties" .
+
+ns1:_soutienAuxFamilles a owl:NamedIndividual,
+        ns1:SoutienAuxFamilles ;
+    rdfs:label "soutien aux familles" .
+
+ns1:_t%C3%A9l%C3%A9assistance a owl:NamedIndividual,
+        ns1:DispositifDeT%C3%A9l%C3%A9assistance ;
+    rdfs:label "téléassistance" .
+
+ns1:_transports a owl:NamedIndividual,
+        ns1:Transports ;
+    rdfs:label "transports" .
+
+ns1:_villeDeVilleneuve-la-garenne a owl:NamedIndividual,
+        ns1:VilleDeVilleneuve-la-garenne ;
+    rdfs:label "ville de villeneuve-la-garenne" .
+
+ns1:_villeneuve-la-garenne a owl:NamedIndividual,
+        ns1:VilleDeVilleneuve-la-garenne ;
+    rdfs:label "villeneuve-la-garenne" .
+
+ns1:activit%C3%A9s a owl:ObjectProperty ;
+    rdfs:label "activités" .
+
+ns1:aide a owl:ObjectProperty ;
+    rdfs:label "aide" .
+
+ns1:am%C3%A9liorer a owl:ObjectProperty ;
+    rdfs:label "améliorer" .
+
+ns1:anim%C3%A9e a owl:ObjectProperty ;
+    rdfs:label "animée" .
+
+ns1:apport%C3%A9e a owl:ObjectProperty ;
+    rdfs:label "apportée" .
+
+ns1:assurant a owl:ObjectProperty ;
+    rdfs:label "assurant" .
+
+ns1:atteindre a owl:ObjectProperty ;
+    rdfs:label "atteindre" .
+
+ns1:avoir a owl:ObjectProperty ;
+    rdfs:label "avoir" .
+
+ns1:b%C3%A9n%C3%A9ficier a owl:ObjectProperty ;
+    rdfs:label "bénéficier" .
+
+ns1:confront%C3%A9s a owl:ObjectProperty ;
+    rdfs:label "confrontés" .
+
+ns1:constituer a owl:ObjectProperty ;
+    rdfs:label "constituer" .
+
+ns1:contribuant a owl:ObjectProperty ;
+    rdfs:label "contribuant" .
+
+ns1:coordonn%C3%A9e a owl:ObjectProperty ;
+    rdfs:label "coordonnée" .
+
+ns1:cr%C3%A9%C3%A9 a owl:ObjectProperty ;
+    rdfs:label "créé" .
+
+ns1:cr%C3%A9er a owl:ObjectProperty ;
+    rdfs:label "créer" .
+
+ns1:d%C3%A9marches a owl:ObjectProperty ;
+    rdfs:label "démarches" .
+
+ns1:d%C3%A9velopper a owl:ObjectProperty ;
+    rdfs:label "développer" .
+
+ns1:demander a owl:ObjectProperty ;
+    rdfs:label "demander" .
+
+ns1:dynamiser a owl:ObjectProperty ;
+    rdfs:label "dynamiser" .
+
+ns1:efforce a owl:ObjectProperty ;
+    rdfs:label "efforce" .
+
+ns1:encourager a owl:ObjectProperty ;
+    rdfs:label "encourager" .
+
+ns1:envoyer a owl:ObjectProperty ;
+    rdfs:label "envoyer" .
+
+ns1:faciliter a owl:ObjectProperty ;
+    rdfs:label "faciliter" .
+
+ns1:favoriser a owl:ObjectProperty ;
+    rdfs:label "favoriser" .
+
+ns1:formation a owl:ObjectProperty ;
+    rdfs:label "formation" .
+
+ns1:formuler a owl:ObjectProperty ;
+    rdfs:label "formuler" .
+
+ns1:fournir a owl:ObjectProperty ;
+    rdfs:label "fournir" .
+
+ns1:g%C3%A9rer a owl:ObjectProperty ;
+    rdfs:label "gérer" .
+
+ns1:garantissant a owl:ObjectProperty ;
+    rdfs:label "garantissant" .
+
+ns1:handicap a owl:ObjectProperty ;
+    rdfs:label "handicap" .
+
+ns1:inclusion a owl:ObjectProperty ;
+    rdfs:label "inclusion" .
+
+ns1:joue a owl:ObjectProperty ;
+    rdfs:label "joue" .
+
+ns1:lire a owl:ObjectProperty ;
+    rdfs:label "lire" .
+
+ns1:mission a owl:ObjectProperty ;
+    rdfs:label "mission" .
+
+ns1:offrent a owl:ObjectProperty ;
+    rdfs:label "offrent" .
+
+ns1:offrir a owl:ObjectProperty ;
+    rdfs:label "offrir" .
+
+ns1:organisation a owl:ObjectProperty ;
+    rdfs:label "organisation" .
+
+ns1:organiser a owl:ObjectProperty ;
+    rdfs:label "organiser" .
+
+ns1:partager a owl:ObjectProperty ;
+    rdfs:label "partager" .
+
+ns1:participation a owl:ObjectProperty ;
+    rdfs:label "participation" .
+
+ns1:permanences a owl:ObjectProperty ;
+    rdfs:label "permanences" .
+
+ns1:permettre a owl:ObjectProperty ;
+    rdfs:label "permettre" .
+
+ns1:pr%C3%A9tendre a owl:ObjectProperty ;
+    rdfs:label "prétendre" .
+
+ns1:pratiquer a owl:ObjectProperty ;
+    rdfs:label "pratiquer" .
+
+ns1:priseEnCharge a owl:ObjectProperty ;
+    rdfs:label "prise en charge" .
+
+ns1:promotion a owl:ObjectProperty ;
+    rdfs:label "promotion" .
+
+ns1:promouvoir a owl:ObjectProperty ;
+    rdfs:label "promouvoir" .
+
+ns1:r%C3%A9alisation a owl:ObjectProperty ;
+    rdfs:label "réalisation" .
+
+ns1:r%C3%A9duction a owl:ObjectProperty ;
+    rdfs:label "réduction" .
+
+ns1:r%C3%A9pondant a owl:ObjectProperty ;
+    rdfs:label "répondant" .
+
+ns1:rdv a owl:ObjectProperty ;
+    rdfs:label "rdv" .
+
+ns1:recontacter a owl:ObjectProperty ;
+    rdfs:label "recontacter" .
+
+ns1:regrouper a owl:ObjectProperty ;
+    rdfs:label "regrouper" .
+
+ns1:repr%C3%A9sentant a owl:ObjectProperty ;
+    rdfs:label "représentant" .
+
+ns1:respecte a owl:ObjectProperty ;
+    rdfs:label "respecte" .
+
+ns1:rester a owl:ObjectProperty ;
+    rdfs:label "rester" .
+
+ns1:retrouver a owl:ObjectProperty ;
+    rdfs:label "retrouver" .
+
+ns1:rompre a owl:ObjectProperty ;
+    rdfs:label "rompre" .
+
+ns1:sensibiliser a owl:ObjectProperty ;
+    rdfs:label "sensibiliser" .
+
+ns1:sur a owl:ObjectProperty ;
+    rdfs:label "sur" .
+
+ns1:toucher a owl:ObjectProperty ;
+    rdfs:label "toucher" .
+
+ns1:transmis a owl:ObjectProperty ;
+    rdfs:label "transmis" .
+
+ns1:travail a owl:ObjectProperty ;
+    rdfs:label "travail" .
+
+<https://github.com/schmarion/phd-code/o/example#%C3%89ducationSportiveMunicipale> a owl:Class ;
+    rdfs:label "éducation sportive municipale" .
+
+<https://github.com/schmarion/phd-code/o/example#%C3%89panouissement> a owl:Class ;
+    rdfs:label "épanouissement" .
+
+<https://github.com/schmarion/phd-code/o/example#%C3%89v%C3%A9nementsDeSensibilisation> a owl:Class ;
+    rdfs:label "événements de sensibilisation" ;
+    rdfs:subClassOf ns1:Campagnes .
+
+<https://github.com/schmarion/phd-code/o/example#%C3%8Ele-de-france> a owl:Class ;
+    rdfs:label "île-de-france" .
+
+ns1:Accessibilit%C3%A9 a owl:Class ;
+    rdfs:label "accessibilité" ;
+    rdfs:subClassOf ns1:ParticipationCitoyenne .
+
+ns1:Accueil a owl:Class ;
+    rdfs:label "accueil" .
+
+ns1:Activit%C3%A9sManuelles a owl:Class ;
+    rdfs:label "activités manuelles" .
+
+ns1:Adulte a owl:Class ;
+    rdfs:label "adulte" .
+
+ns1:AdultesEnSituationDeHandicap a owl:Class ;
+    rdfs:label "adultes en situation de handicap" .
+
+ns1:Aides a owl:Class ;
+    rdfs:label "aides" ;
+    rdfs:subClassOf ns1:Services .
+
+ns1:ArtTh%C3%A9rapeute a owl:Class ;
+    rdfs:label "art thérapeute" ;
+    rdfs:subClassOf ns1:Professionnels .
+
+ns1:AssociationC%C5%93urDeLionne a owl:Class ;
+    rdfs:label "association cœur de lionne" .
+
+ns1:AssociationJoieDeVivre a owl:Class ;
+    rdfs:label "association joie de vivre" .
+
+ns1:Ateliers a owl:Class ;
+    rdfs:label "ateliers" ;
+    rdfs:subClassOf ns1:Activit%C3%A9s .
+
+ns1:Autonomie a owl:Class ;
+    rdfs:label "autonomie" .
+
+ns1:BanlieueParisienne a owl:Class ;
+    rdfs:label "banlieue parisienne" .
+
+ns1:BesoinsSp%C3%A9cifiques a owl:Class ;
+    rdfs:label "besoins spécifiques" .
+
+ns1:Bilans a owl:Class ;
+    rdfs:label "bilans" .
+
+ns1:Bowling a owl:Class ;
+    rdfs:label "bowling" ;
+    rdfs:subClassOf ns1:Sorties .
+
+ns1:Cadre a owl:Class ;
+    rdfs:label "cadre" ;
+    rdfs:subClassOf ns1:EspacePublic .
+
+ns1:CarteInvalidit%C3%A9 a owl:Class ;
+    rdfs:label "carte invalidité" .
+
+ns1:Ccas a owl:Class ;
+    rdfs:label "ccas" .
+
+ns1:CharteHandicap a owl:Class ;
+    rdfs:label "charte handicap" .
+
+ns1:Cin%C3%A9ma a owl:Class ;
+    rdfs:label "cinéma" ;
+    rdfs:subClassOf ns1:Sorties .
+
+ns1:Communaut%C3%A9 a owl:Class ;
+    rdfs:label "communauté" .
+
+ns1:ConditionsD%E2%80%99adh%C3%A9sion a owl:Class ;
+    rdfs:label "conditions d’adhésion" .
+
+ns1:CoursDeGymnastique a owl:Class ;
+    rdfs:label "cours de gymnastique" ;
+    rdfs:subClassOf ns1:Activit%C3%A9Sportive .
+
+ns1:CoursDeSports a owl:Class ;
+    rdfs:label "cours de sports" .
+
+ns1:D%C3%A9cision a owl:Class ;
+    rdfs:label "décision" ;
+    rdfs:subClassOf ns1:Gestion .
+
+ns1:D%C3%A9marches a owl:Class ;
+    rdfs:label "démarches" ;
+    rdfs:subClassOf ns1:Services .
+
+ns1:D%C3%A9veloppementPersonnel a owl:Class ;
+    rdfs:label "développement personnel" .
+
+ns1:DemandeDePrestationDeCompensationDuHandicap a owl:Class ;
+    rdfs:label "demande de prestation de compensation du handicap" .
+
+ns1:Diversit%C3%A9Sociale a owl:Class ;
+    rdfs:label "diversité sociale" ;
+    rdfs:subClassOf ns1:PopulationLocale .
+
+ns1:DroitsFondamentaux a owl:Class ;
+    rdfs:label "droits fondamentaux" .
+
+ns1:EnseignanteP%C3%A9dagogique a owl:Class ;
+    rdfs:label "enseignante pédagogique" ;
+    rdfs:subClassOf ns1:Professionnels .
+
+ns1:EnseignanteSp%C3%A9cialis%C3%A9e a owl:Class ;
+    rdfs:label "enseignante spécialisée" ;
+    rdfs:subClassOf ns1:Professionnels .
+
+ns1:Familles a owl:Class ;
+    rdfs:label "familles" .
+
+ns1:Formation a owl:Class ;
+    rdfs:label "formation" ;
+    rdfs:subClassOf ns1:Sensibilisation .
+
+ns1:FormationDesParents a owl:Class ;
+    rdfs:label "formation des parents" ;
+    rdfs:subClassOf ns1:SoutienAuxFamilles .
+
+ns1:Fratrie a owl:Class ;
+    rdfs:label "fratrie" .
+
+ns1:GroupesDePersonnesHandicap%C3%A9es a owl:Class ;
+    rdfs:label "groupes de personnes handicapées" .
+
+ns1:GymAdapt%C3%A9e a owl:Class ;
+    rdfs:label "gym adaptée" ;
+    rdfs:subClassOf ns1:Activit%C3%A9Physique .
+
+ns1:Hauts-de-seine a owl:Class ;
+    rdfs:label "hauts-de-seine" .
+
+ns1:ImplicationActive a owl:Class ;
+    rdfs:label "implication active" ;
+    rdfs:subClassOf ns1:ParticipationCitoyenne .
+
+ns1:InformationsN%C3%A9cessaires a owl:Class ;
+    rdfs:label "informations nécessaires" .
+
+ns1:InsertionProfessionnelle a owl:Class ;
+    rdfs:label "insertion professionnelle" ;
+    rdfs:subClassOf ns1:Emploi .
+
+ns1:JardinD%E2%80%99acclimatation a owl:Class ;
+    rdfs:label "jardin d’acclimatation" ;
+    rdfs:subClassOf ns1:Sorties .
+
+ns1:JeunesHandicap%C3%A9sMentaux a owl:Class ;
+    rdfs:label "jeunes handicapés mentaux" ;
+    rdfs:subClassOf ns1:Adolescents .
+
+ns1:JeuxExt%C3%A9rieurs a owl:Class ;
+    rdfs:label "jeux extérieurs" .
+
+ns1:Lien a owl:Class ;
+    rdfs:label "lien" .
+
+ns1:LienSocial a owl:Class ;
+    rdfs:label "lien social" ;
+    rdfs:subClassOf ns1:Rencontres .
+
+ns1:Logements a owl:Class ;
+    rdfs:label "logements" ;
+    rdfs:subClassOf ns1:PersonnesD%C3%A9pendantes .
+
+ns1:MontageFinancier a owl:Class ;
+    rdfs:label "montage financier" .
+
+ns1:Motricit%C3%A9Fine a owl:Class ;
+    rdfs:label "motricité fine" ;
+    rdfs:subClassOf ns1:D%C3%A9veloppementPsychomoteur .
+
+ns1:Motricit%C3%A9Globale a owl:Class ;
+    rdfs:label "motricité globale" ;
+    rdfs:subClassOf ns1:D%C3%A9veloppementPsychomoteur .
+
+ns1:Mus%C3%A9es a owl:Class ;
+    rdfs:label "musées" ;
+    rdfs:subClassOf ns1:Sorties .
+
+ns1:NiveauDeRevenu a owl:Class ;
+    rdfs:label "niveau de revenu" ;
+    rdfs:subClassOf ns1:PolitiqueTarifaire .
+
+ns1:Objectifs a owl:Class ;
+    rdfs:label "objectifs" ;
+    rdfs:subClassOf ns1:Actions .
+
+ns1:Opportunit%C3%A9s a owl:Class ;
+    rdfs:label "opportunités" .
+
+ns1:Optile a owl:Class ;
+    rdfs:label "optile" ;
+    rdfs:subClassOf ns1:Transports .
+
+ns1:Organismes a owl:Class ;
+    rdfs:label "organismes" .
+
+ns1:OrganismesPartenaires a owl:Class ;
+    rdfs:label "organismes partenaires" .
+
+ns1:Ost%C3%A9opathe a owl:Class ;
+    rdfs:label "ostéopathe" .
+
+ns1:P%C3%A9riode a owl:Class ;
+    rdfs:label "période" ;
+    rdfs:subClassOf ns1:S%C3%A9ances .
+
+ns1:P%C3%B4leHandicap a owl:Class ;
+    rdfs:label "pôle handicap" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:proposent ;
+            owl:someValuesFrom ns1:Soutien ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:proposent ;
+            owl:someValuesFrom ns1:ServicesDeSoutien ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:est ;
+            owl:someValuesFrom ns1:StructureD%E2%80%99information ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:proposent ;
+            owl:someValuesFrom ns1:Services ],
+        ns1:StructureD%E2%80%99information .
+
+ns1:PersonnesPr%C3%A9sentantUnTauxD%E2%80%99invalidit%C3%A9 a owl:Class ;
+    rdfs:label "personnes présentant un taux d’invalidité" .
+
+ns1:Pr%C3%A9senceM%C3%A9dicale a owl:Class ;
+    rdfs:label "présence médicale" .
+
+ns1:PriseEnCharge a owl:Class ;
+    rdfs:label "prise en charge" .
+
+ns1:Probl%C3%A9matiquesDuHandicap a owl:Class ;
+    rdfs:label "problématiques du handicap" ;
+    rdfs:subClassOf ns1:Sensibilisation .
+
+ns1:Proc%C3%A9dure a owl:Class ;
+    rdfs:label "procédure" .
+
+ns1:Psychologue a owl:Class ;
+    rdfs:label "psychologue" ;
+    rdfs:subClassOf ns1:Professionnels .
+
+ns1:PsychologueComportementaliste a owl:Class ;
+    rdfs:label "psychologue comportementaliste" .
+
+ns1:Public a owl:Class ;
+    rdfs:label "public" ;
+    rdfs:subClassOf ns1:Individus .
+
+ns1:R%C3%A9duction a owl:Class ;
+    rdfs:label "réduction" ;
+    rdfs:subClassOf ns1:CarteAm%C3%A9thyste .
+
+ns1:R%C3%A9seauRatp a owl:Class ;
+    rdfs:label "réseau ratp" ;
+    rdfs:subClassOf ns1:Transports .
+
+ns1:R%C3%A9union a owl:Class ;
+    rdfs:label "réunion" .
+
+ns1:Repos a owl:Class ;
+    rdfs:label "repos" .
+
+ns1:RoutineQuotidienne a owl:Class ;
+    rdfs:label "routine quotidienne" ;
+    rdfs:subClassOf ns1:Bien-%C3%AAtreG%C3%A9n%C3%A9ral .
+
+ns1:S%C3%A9anceDePsychomotricit%C3%A9 a owl:Class ;
+    rdfs:label "séance de psychomotricité" ;
+    rdfs:subClassOf ns1:D%C3%A9veloppementPsychomoteur .
+
+ns1:S%C3%A9joursFamiliaux a owl:Class ;
+    rdfs:label "séjours familiaux" ;
+    rdfs:subClassOf ns1:Activit%C3%A9s .
+
+ns1:Seniors a owl:Class ;
+    rdfs:label "seniors" ;
+    rdfs:subClassOf ns1:PersonnesD%C3%A9pendantes .
+
+ns1:ServiceDesSports a owl:Class ;
+    rdfs:label "service des sports" .
+
+ns1:Sncf a owl:Class ;
+    rdfs:label "sncf" ;
+    rdfs:subClassOf ns1:Transports .
+
+ns1:_groupeDeParole a owl:NamedIndividual,
+        ns1:GroupeDeParole ;
+    rdfs:label "groupe de parole" .
+
+ns1:communication a owl:ObjectProperty ;
+    rdfs:label "communication" .
+
+ns1:d%C3%A9die a owl:ObjectProperty ;
+    rdfs:label "dédie" .
+
+ns1:miseEnPlace a owl:ObjectProperty ;
+    rdfs:label "mise en place" .
+
+ns1:par a owl:ObjectProperty ;
+    rdfs:label "par" .
+
+ns1:propos%C3%A9es a owl:ObjectProperty ;
+    rdfs:label "proposées" .
+
+ns1:sociale a owl:ObjectProperty ;
+    rdfs:label "sociale" .
+
+<https://github.com/schmarion/phd-code/o/example#%C3%89changes> a owl:Class ;
+    rdfs:label "échanges" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:communication ;
+            owl:someValuesFrom ns1:Parents ] .
+
+ns1:Actions a owl:Class ;
+    rdfs:label "actions" ;
+    rdfs:subClassOf ns1:Services .
+
+ns1:Activit%C3%A9Physique a owl:Class ;
+    rdfs:label "activité physique" .
+
+ns1:Activit%C3%A9Sportive a owl:Class ;
+    rdfs:label "activité sportive" .
+
+ns1:Aidants a owl:Class ;
+    rdfs:label "aidants" .
+
+ns1:Bien-%C3%AAtre a owl:Class ;
+    rdfs:label "bien-être" ;
+    rdfs:subClassOf ns1:Qualit%C3%A9DeVie .
+
+ns1:Bien-%C3%AAtreG%C3%A9n%C3%A9ral a owl:Class ;
+    rdfs:label "bien-être général" ;
+    rdfs:subClassOf ns1:Bien-%C3%AAtre .
+
+ns1:Campagnes a owl:Class ;
+    rdfs:label "campagnes" .
+
+ns1:CarteAm%C3%A9thyste a owl:Class ;
+    rdfs:label "carte améthyste" .
+
+ns1:CentreCommunalD%27actionSociale a owl:Class ;
+    rdfs:label "centre communal d'action sociale" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:sociale ;
+            owl:someValuesFrom ns1:AvenueDeVerdun ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:action ;
+            owl:someValuesFrom ns1:AvenueDeVerdun ] .
+
+ns1:Communication a owl:Class ;
+    rdfs:label "communication" ;
+    rdfs:subClassOf ns1:Sensibilisation .
+
+ns1:D%C3%A9veloppement a owl:Class ;
+    rdfs:label "développement" .
+
+ns1:DispositifDeT%C3%A9l%C3%A9assistance a owl:Class ;
+    rdfs:label "dispositif de téléassistance" .
+
+ns1:DossierMdph a owl:Class ;
+    rdfs:label "dossier mdph" .
+
+ns1:Emploi a owl:Class ;
+    rdfs:label "emploi" .
+
+ns1:EspacePublic a owl:Class ;
+    rdfs:label "espace public" .
+
+ns1:FonctionnementD%C3%A9mocratique a owl:Class ;
+    rdfs:label "fonctionnement démocratique" ;
+    rdfs:subClassOf ns1:ParticipationCitoyenne .
+
+ns1:Gestion a owl:Class ;
+    rdfs:label "gestion" ;
+    rdfs:subClassOf ns1:FonctionnementD%C3%A9mocratique .
+
+ns1:GroupeDeParole a owl:Class ;
+    rdfs:label "groupe de parole" ;
+    rdfs:subClassOf ns1:Communication .
+
+ns1:InclusionSociale a owl:Class ;
+    rdfs:label "inclusion sociale" .
+
+ns1:Individus a owl:Class ;
+    rdfs:label "individus" .
+
+ns1:InsertionSociale a owl:Class ;
+    rdfs:label "insertion sociale" .
+
+ns1:MissionHandicap a owl:Class ;
+    rdfs:label "mission handicap" .
+
+ns1:Parents a owl:Class ;
+    rdfs:label "parents" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:miseEnPlace ;
+            owl:someValuesFrom ns1:GroupeDeParole ],
+        ns1:Aidants .
+
+ns1:PolitiqueTarifaire a owl:Class ;
+    rdfs:label "politique tarifaire" .
+
+ns1:PopulationLocale a owl:Class ;
+    rdfs:label "population locale" .
+
+ns1:Qualit%C3%A9DeVie a owl:Class ;
+    rdfs:label "qualité de vie" .
+
+ns1:Rencontres a owl:Class ;
+    rdfs:label "rencontres" .
+
+ns1:S%C3%A9ances a owl:Class ;
+    rdfs:label "séances" .
+
+ns1:ServicesAdapt%C3%A9s a owl:Class ;
+    rdfs:label "services adaptés" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:facilitant ;
+            owl:someValuesFrom ns1:Int%C3%A9grationSociale ],
+        ns1:Services .
+
+ns1:VilleDeVilleneuve-la-garenne a owl:Class ;
+    rdfs:label "ville de villeneuve-la-garenne" .
+
+ns1:_association a owl:NamedIndividual,
+        ns1:Associations ;
+    rdfs:label "association" ;
+    ns1:d%C3%A9die ns1:_soutien,
+        ns1:_soutienComplet .
+
+ns1:_associations a owl:NamedIndividual,
+        ns1:Associations ;
+    rdfs:label "associations" ;
+    ns1:d%C3%A9die ns1:_soutien,
+        ns1:_soutienComplet .
+
+ns1:_int%C3%A9grationSociale a owl:NamedIndividual,
+        ns1:Int%C3%A9grationSociale ;
+    rdfs:label "intégration sociale" .
+
+ns1:_parents a owl:NamedIndividual,
+        ns1:Parents ;
+    rdfs:label "parents" ;
+    ns1:miseEnPlace ns1:_groupeDeParole .
+
+ns1:action a owl:ObjectProperty ;
+    rdfs:label "action" .
+
+ns1:est a owl:ObjectProperty ;
+    rdfs:label "est" .
+
+ns1:facilitant a owl:ObjectProperty ;
+    rdfs:label "facilitant" .
+
+ns1:offrant a owl:ObjectProperty ;
+    rdfs:label "offrant" .
+
+ns1:veillant a owl:ObjectProperty ;
+    rdfs:label "veillant" .
+
+ns1:Int%C3%A9grationSociale a owl:Class ;
+    rdfs:label "intégration sociale" .
+
+ns1:PersonnesD%C3%A9pendantes a owl:Class ;
+    rdfs:label "personnes dépendantes" .
+
+ns1:SoutienAuxFamilles a owl:Class ;
+    rdfs:label "soutien aux familles" ;
+    rdfs:subClassOf ns1:ServicesDeSoutien .
+
+ns1:_insertionSociale a owl:NamedIndividual,
+        ns1:InsertionSociale ;
+    rdfs:label "insertion sociale" .
+
+ns1:soutien a owl:ObjectProperty ;
+    rdfs:label "soutien" .
+
+ns1:Activit%C3%A9s a owl:Class ;
+    rdfs:label "activités" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:par ;
+            owl:someValuesFrom ns1:Associations ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:propos%C3%A9es ;
+            owl:someValuesFrom ns1:Associations ] .
+
+ns1:Associations a owl:Class ;
+    rdfs:label "associations" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:d%C3%A9die ;
+            owl:someValuesFrom ns1:Soutien ] .
+
+ns1:AvenueDeVerdun a owl:Class ;
+    rdfs:label "avenue de verdun" .
+
+ns1:ParticipationCitoyenne a owl:Class ;
+    rdfs:label "participation citoyenne" .
+
+ns1:PersonnesEnSituationDeHandicap a owl:Class ;
+    rdfs:label "personnes en situation de handicap" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:offrant ;
+            owl:someValuesFrom ns1:ServicesAdapt%C3%A9s ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:est ;
+            owl:someValuesFrom ns1:StructureD%E2%80%99information ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:proposent ;
+            owl:someValuesFrom ns1:Soutien ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:proposent ;
+            owl:someValuesFrom ns1:ServicesDeSoutien ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:proposent ;
+            owl:someValuesFrom ns1:Services ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:action ;
+            owl:someValuesFrom ns1:AvenueDeVerdun ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:offrant ;
+            owl:someValuesFrom ns1:Services ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:soutien ;
+            owl:someValuesFrom ns1:AccompagnementSocial ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:veillant ;
+            owl:someValuesFrom ns1:D%C3%A9veloppement ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:veillant ;
+            owl:someValuesFrom ns1:D%C3%A9veloppementPsychomoteur ] .
+
+ns1:Sensibilisation a owl:Class ;
+    rdfs:label "sensibilisation" .
+
+ns1:ServicesDeSoutien a owl:Class ;
+    rdfs:label "services de soutien" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:soutien ;
+            owl:someValuesFrom ns1:AccompagnementSocial ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:accompagnement ;
+            owl:someValuesFrom ns1:Adolescents ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:accompagnement ;
+            owl:someValuesFrom ns1:Enfant ],
+        ns1:SoutienAuxFamilles .
+
+ns1:StructureD%E2%80%99information a owl:Class ;
+    rdfs:label "structure d’information" .
+
+ns1:Transports a owl:Class ;
+    rdfs:label "transports" .
+
+ns1:_adolescents a owl:NamedIndividual,
+        ns1:Adolescents ;
+    rdfs:label "adolescents" .
+
+ns1:_d%C3%A9veloppement a owl:NamedIndividual,
+        ns1:D%C3%A9veloppement ;
+    rdfs:label "développement" .
+
+ns1:_d%C3%A9veloppementPsychomoteur a owl:NamedIndividual,
+        ns1:D%C3%A9veloppementPsychomoteur ;
+    rdfs:label "développement psychomoteur" .
+
+ns1:_enfant a owl:NamedIndividual,
+        ns1:Enfant ;
+    rdfs:label "enfant" .
+
+ns1:_enfants a owl:NamedIndividual,
+        ns1:Enfant ;
+    rdfs:label "enfants" .
+
+ns1:_servicesAdapt%C3%A9s a owl:NamedIndividual,
+        ns1:ServicesAdapt%C3%A9s ;
+    rdfs:label "services adaptés" ;
+    ns1:facilitant ns1:_int%C3%A9grationSociale .
+
+ns1:Adolescents a owl:Class ;
+    rdfs:label "adolescents" .
+
+ns1:D%C3%A9veloppementPsychomoteur a owl:Class ;
+    rdfs:label "développement psychomoteur" .
+
+ns1:Enfant a owl:Class ;
+    rdfs:label "enfant" .
+
+ns1:Professionnels a owl:Class ;
+    rdfs:label "professionnels" .
+
+ns1:Sorties a owl:Class ;
+    rdfs:label "sorties" ;
+    rdfs:subClassOf ns1:Activit%C3%A9s .
+
+ns1:Soutien a owl:Class ;
+    rdfs:label "soutien" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:accompagnement ;
+            owl:someValuesFrom ns1:Adolescents ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:accompagnement ;
+            owl:someValuesFrom ns1:Enfant ] .
+
+ns1:_servicesDeSoutien a owl:NamedIndividual,
+        ns1:ServicesDeSoutien ;
+    rdfs:label "services de soutien" ;
+    ns1:accompagnement ns1:_adolescents,
+        ns1:_enfant,
+        ns1:_enfants ;
+    ns1:soutien ns1:_accompagnement,
+        ns1:_accompagnementSocial,
+        ns1:_serviceD%E2%80%99accompagnement .
+
+ns1:_structureD%E2%80%99information a owl:NamedIndividual,
+        ns1:StructureD%E2%80%99information ;
+    rdfs:label "structure d’information" .
+
+ns1:AccompagnementSocial a owl:Class ;
+    rdfs:label "accompagnement social" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:accompagnement ;
+            owl:someValuesFrom ns1:InsertionSociale ] .
+
+ns1:_accompagnement a owl:NamedIndividual,
+        ns1:AccompagnementSocial ;
+    rdfs:label "accompagnement" ;
+    ns1:accompagnement ns1:_insertionSociale .
+
+ns1:_accompagnementSocial a owl:NamedIndividual,
+        ns1:AccompagnementSocial ;
+    rdfs:label "accompagnement social" ;
+    ns1:accompagnement ns1:_insertionSociale .
+
+ns1:_serviceD%E2%80%99accompagnement a owl:NamedIndividual,
+        ns1:AccompagnementSocial ;
+    rdfs:label "service d’accompagnement" ;
+    ns1:accompagnement ns1:_insertionSociale .
+
+ns1:proposent a owl:ObjectProperty ;
+    rdfs:label "proposent" .
+
+ns1:_soutien a owl:NamedIndividual,
+        ns1:Soutien ;
+    rdfs:label "soutien" ;
+    ns1:accompagnement ns1:_adolescents,
+        ns1:_enfant,
+        ns1:_enfants .
+
+ns1:_soutienComplet a owl:NamedIndividual,
+        ns1:Soutien ;
+    rdfs:label "soutien complet" ;
+    ns1:accompagnement ns1:_adolescents,
+        ns1:_enfant,
+        ns1:_enfants .
+
+ns1:accompagnement a owl:ObjectProperty ;
+    rdfs:label "accompagnement" .
+
+ns1:Services a owl:Class ;
+    rdfs:label "services" ;
+    rdfs:subClassOf [ a owl:Restriction ;
+            owl:onProperty ns1:accompagnement ;
+            owl:someValuesFrom ns1:Adolescents ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:facilitant ;
+            owl:someValuesFrom ns1:Int%C3%A9grationSociale ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:soutien ;
+            owl:someValuesFrom ns1:AccompagnementSocial ],
+        [ a owl:Restriction ;
+            owl:onProperty ns1:accompagnement ;
+            owl:someValuesFrom ns1:Enfant ] .
+
+ns1:_avenueDeVerdun a owl:NamedIndividual,
+        ns1:AvenueDeVerdun ;
+    rdfs:label "avenue de verdun" .
+
+ns1:_services a owl:NamedIndividual,
+        ns1:Services ;
+    rdfs:label "services" ;
+    ns1:accompagnement ns1:_adolescents,
+        ns1:_enfant,
+        ns1:_enfants ;
+    ns1:facilitant ns1:_int%C3%A9grationSociale ;
+    ns1:soutien ns1:_accompagnement,
+        ns1:_accompagnementSocial,
+        ns1:_serviceD%E2%80%99accompagnement .
+
