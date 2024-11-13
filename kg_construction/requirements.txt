@@ -43,7 +43,7 @@ nest-asyncio==1.6.0
 networkx==3.2.1
 nltk==3.8.1
 numpy==1.26.1
-olaf==0.0.1
+olaf @ git+https://github.com/wikit-ai/olaf
 openai==1.6.1
 packaging==23.2
 pandas==2.1.2
